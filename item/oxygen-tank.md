@@ -2,7 +2,7 @@
 
 ![](<../.gitbook/assets/image (124).png>)
 
-氧氣罐有三種：輕型、一般型和重型，每一種都比其前身儲存的氧氣量更多。假設玩家戴著[氧氣罩](oxygen-mask.md)，它們會在玩家的物品欄中被消耗。它們的使用壽命可以通過使用[CO2 洗滌器](co2-scrubber.md)來延長，並且可以通過使用[打氣筒](oxygen-refiller.md)或[氧氣製造機](tank-refiller.md)來補充。還提供了一個用於氧氣罐的圖形 HUD，可以使用[材質包](../space/resource-pack.md)查看，並在副手裝備一個[氧氣罐可視儀](oxygen-tank-visualiser.md)。
+氧氣罐有三種：輕型、一般型和重型，每一種都比其前身儲存的氧氣量更多。假設玩家戴著[氧氣罩](oxygen-mask.md)，它們會在玩家的物品欄中被消耗。它們的使用壽命可以通過使用[CO2 洗滌器](co2-scrubber.md)來延長，並且可以通過使用[打氣筒](oxygen-refiller.md)或[氧氣製造機](Tank-Refiller.md)來補充。還提供了一個用於氧氣罐的圖形 HUD，可以使用[材質包](../space/resource-pack.md)查看，並在副手裝備一個[氧氣罐可視儀](oxygen-tank-visualiser.md)。
 
 ### 製作
 

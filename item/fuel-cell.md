@@ -20,7 +20,7 @@
 
 ### 燃料
 
-燃料可用於為[噴射背包](modular-workbench.md)提供燃料。使用 [噴射背包](modular-workbench.md) 時，它會消耗燃料。
+燃料可用於為[噴射背包](Modular-Workbench.md)提供燃料。使用 [噴射背包](Modular-Workbench.md) 時，它會消耗燃料。
 
 一個燃料可以儲存多達 100 個單位的燃料。
 

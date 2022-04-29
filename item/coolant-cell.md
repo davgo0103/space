@@ -2,7 +2,7 @@
 
 ![](<../.gitbook/assets/image (168).png>)
 
-冷卻液槽是一種與[鈾粉塵](uranium-dust.md)一起使用時可為[核反應堆](nuclear-reactor.md)提供能量的物品。
+冷卻液槽是一種與[鈾粉塵](uranium-dust.md)一起使用時可為[核反應堆](Nuclear-Reactor.md)提供能量的物品。
 
 ## 獲得
 
@@ -19,4 +19,4 @@
 
 ### 核反應堆
 
-如果放置在[核反應堆](nuclear-reactor.md) GUI 的第二格，將消耗一個冷卻液槽。1 個冷卻液槽將產生 100000 個冷卻劑。
+如果放置在[核反應堆](Nuclear-Reactor.md) GUI 的第二格，將消耗一個冷卻液槽。1 個冷卻液槽將產生 100000 個冷卻劑。

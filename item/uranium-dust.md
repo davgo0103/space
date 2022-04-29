@@ -2,7 +2,7 @@
 
 ![](<../.gitbook/assets/ezgif.com-gif-maker (3).png>)
 
-鈾粉塵是一種資源，當與[冷卻液槽](nuclear-reactor.md)串聯使用時，可為[核反應堆](nuclear-reactor.md)提供動力。它也是一種製作組件。
+鈾粉塵是一種資源，當與[冷卻液槽](Nuclear-Reactor.md)串聯使用時，可為[核反應堆](Nuclear-Reactor.md)提供動力。它也是一種製作組件。
 
 ## 獲得
 
