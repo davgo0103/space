@@ -13,7 +13,7 @@
 ![](<../.gitbook/assets/image (193).png>)
 
 * 1 [電容](capacitor.md)
-* 2 [電線](wire.md)
+* 2 [電線](Wire.md)
 * 1 [強化鋁合金錠](reinforced-aluminium-alloy-ingot.md)
 * 1 [鋁合金錠](aluminium-alloy-ingot.md)
 * 4 [塑料](plastic.md)

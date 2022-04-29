@@ -22,7 +22,7 @@
 ![](<../.gitbook/assets/image (36).png>)
 
 * 1 工作台
-* 1 [電線](wire.md)
+* 1 [電線](Wire.md)
 * 4 [鋁合金錠](aluminium-alloy-ingot.md)
 
 ### 太空服

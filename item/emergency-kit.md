@@ -13,7 +13,7 @@
 ![](<../.gitbook/assets/image (55).png>)
 
 * 4 [鋁合金錠](aluminium-alloy-ingot.md)
-* 4 [電線](wire.md)
+* 4 [電線](Wire.md)
 * 1 金蘋果
 
 ## 用法

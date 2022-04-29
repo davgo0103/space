@@ -14,7 +14,7 @@
 
 * 7 [鋁合金錠](aluminium-alloy-ingot.md)
 * 1 火把
-* 1 [電線](wire.md)
+* 1 [電線](Wire.md)
 
 ## 用法
 

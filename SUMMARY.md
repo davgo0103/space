@@ -11,11 +11,11 @@
 
 ## 特殊物品 <a href="#item" id="item"></a>
 
-* [電線](item/wire.md)
-* [管線](item/pipe.md)
-* [板手](item/wrench.md)
+* [電線](item/Wire.md)
+* [管線](item/Pipe.md)
+* [板手](item/Wrench.md)
 * [充電站](item/Charging-Station.md)
-* [人工重力製造機](item/artificial-gravity-generator.md)
+* [人工重力製造機](item/Artificial-Gravity-Generator.md)
 * [氧氣釋放器](item/oxygen-bubble-distributor.md)
 * [氧氣收集器](item/oxygen-collector.md)
 * [太陽能板](item/solar-panel.md)

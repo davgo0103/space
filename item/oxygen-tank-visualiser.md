@@ -10,5 +10,5 @@
 
 ![](<../.gitbook/assets/image (132).png>)
 
-* 4 [電線](wire.md)
+* 4 [電線](Wire.md)
 * 1 玻璃片

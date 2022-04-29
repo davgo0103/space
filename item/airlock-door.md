@@ -15,8 +15,8 @@
 ![](<../.gitbook/assets/image (38).png>)
 
 * 1 鐵門
-* 2 [管線](pipe.md)
-* 2 [電線](wire.md)
+* 2 [管線](Pipe.md)
+* 2 [電線](Wire.md)
 * 4 [鋁合金錠](aluminium-alloy-ingot.md)
 
 ## 用法

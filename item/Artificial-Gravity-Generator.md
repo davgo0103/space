@@ -13,7 +13,7 @@
 ![](<../.gitbook/assets/image (16).png>)
 
 * 1 [電容](capacitor.md)
-* 1 [電線](wire.md)
+* 1 [電線](Wire.md)
 * 1 [電路板](circuit-board.md)
 * 6 [鋁合金錠](aluminium-alloy-ingot.md)
 
@@ -21,7 +21,7 @@
 
 ### 啟動
 
-人工重力製造機可以通過從[電線](wire.md)接收能量來啟動。
+人工重力製造機可以通過從[電線](Wire.md)接收能量來啟動。
 
 一個人工重力製造機可以儲存多達 12000 單位的能量。
 

@@ -43,22 +43,22 @@ description: 歡迎加入 棘夜之都! 本WIKI將帶領各位了解伺服器的
 
 除了一些在機器之間傳輸能量和氧氣的項目外，還有：
 
-* [電線](item/wire.md)
-* [管線](item/pipe.md)
+* [電線](item/Wire.md)
+* [管線](item/Pipe.md)
 
 雖然轉移能量和氧氣的概念起初聽起來有點嚇人，但實際上非常簡單。以下是一些範例：
 
-* [太陽能板](item/solar-panel.md)在白天產生能量並在內部儲存能量。除非您使用[電線](item/wire.md)連接另一台機器，否則能量會持續累積並且永遠不會放電。
+* [太陽能板](item/solar-panel.md)在白天產生能量並在內部儲存能量。除非您使用[電線](item/Wire.md)連接另一台機器，否則能量會持續累積並且永遠不會放電。
 
 ![](https://camo.githubusercontent.com/06f0c8a2404aa8fcecdcb59258422d9bf12efbd5ab13e0e32686b71bf66bbb4c/68747470733a2f2f692e696d6775722e636f6d2f4654567265574f2e706e67)
 
-* [電線](item/wire.md)在機器之間傳遞能量。使用電線將[太陽能板](item/solar-panel.md)連接到另一台機器，就像在兩者之間放置一條紅石線路一樣簡單。
+* [電線](item/Wire.md)在機器之間傳遞能量。使用電線將[太陽能板](item/solar-panel.md)連接到另一台機器，就像在兩者之間放置一條紅石線路一樣簡單。
 
 ![](<.gitbook/assets/image (1).png>)
 
 
 
-* [管線](item/pipe.md)在機器之間傳輸氧氣，其工作方式與電線大致相同，儘管它們傳輸氧氣而不是能量。
+* [管線](item/Pipe.md)在機器之間傳輸氧氣，其工作方式與電線大致相同，儘管它們傳輸氧氣而不是能量。
 
 ![](<.gitbook/assets/image (2).png>)
 
@@ -70,7 +70,7 @@ description: 歡迎加入 棘夜之都! 本WIKI將帶領各位了解伺服器的
 
 ![](https://camo.githubusercontent.com/1f0820413d0a557b590ae47be9e003d4a4eae964e659b9a06115811f6cf8c79a/68747470733a2f2f692e696d6775722e636f6d2f6c3042456d49512e706e67)
 
-* 收集到的氧氣現在可以被[氧氣釋放器](item/oxygen-bubble-distributor.md)（這也需要能量）。使用[管線](item/pipe.md)和[電線](item/wire.md)，就像下圖的設置，以創建一個安全的氧氣氣泡，讓您在太陽能板產生足夠電力的情況下生存。在[氧氣釋放器](item/oxygen-bubble-distributor.md)附近時，您可以在您的背包中放一個[打氣筒](item/oxygen-refiller.md)填充[氧氣罐](item/oxygen-tank.md)。
+* 收集到的氧氣現在可以被[氧氣釋放器](item/oxygen-bubble-distributor.md)（這也需要能量）。使用[管線](item/Pipe.md)和[電線](item/Wire.md)，就像下圖的設置，以創建一個安全的氧氣氣泡，讓您在太陽能板產生足夠電力的情況下生存。在[氧氣釋放器](item/oxygen-bubble-distributor.md)附近時，您可以在您的背包中放一個[打氣筒](item/oxygen-refiller.md)填充[氧氣罐](item/oxygen-tank.md)。
 
 ![](https://camo.githubusercontent.com/f4ada4942ec00449fdcc3db5cb284edc474a5a3d36fc041075768d110050cd84/68747470733a2f2f692e696d6775722e636f6d2f5a364e63347a532e706e67)
 

@@ -13,7 +13,7 @@
 ![](<../.gitbook/assets/image (52).png>)
 
 * 1 鑽石
-* 4 [電線](wire.md)
+* 4 [電線](Wire.md)
 * 4 [鋁合金錠](aluminium-alloy-ingot.md)
 
 ## 用法

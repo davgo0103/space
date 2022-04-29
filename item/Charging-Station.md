@@ -13,14 +13,14 @@
 ![](<../.gitbook/assets/image (13).png>)
 
 * 1 漏斗
-* 2 [電線](wire.md)
+* 2 [電線](Wire.md)
 * 6 [鋁合金錠](aluminium-alloy-ingot.md)
 
 ## 用法
 
 ### 啟動
 
-充電站可以通過從[電線](wire.md)接收能量來啟動。
+充電站可以通過從[電線](Wire.md)接收能量來啟動。
 
 一個充電站可以儲存多達 8000 單位的能量。
 

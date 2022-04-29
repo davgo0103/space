@@ -14,7 +14,7 @@
 
 * 4 [鈾粉塵](uranium-dust.md)
 * 2 [鋁合金錠](aluminium-alloy-ingot.md)
-* 2 [電線](wire.md)
+* 2 [電線](Wire.md)
 * 1 [高級電路板](advanced-circuit-board.md)
 
 ## 用法
@@ -31,6 +31,6 @@
 
 ### 效果
 
-通過[電線](wire.md)連接到通電的機器，核反應堆將向它傳輸能量。核反應堆必須有足夠的冷卻劑才能做到這一點。
+通過[電線](Wire.md)連接到通電的機器，核反應堆將向它傳輸能量。核反應堆必須有足夠的冷卻劑才能做到這一點。
 
 ![圖片不可用](https://camo.githubusercontent.com/9780a10172085eb3668bc12380017ec5725cd15b3927f0240494cf2028d5bde1/68747470733a2f2f692e696d6775722e636f6d2f4e5338737a576e2e676966) ![圖片不可用](https://camo.githubusercontent.com/82793f561e500685a3ef2918e7851a34adb7e6ae8d3b3a8b9cde11858e99ffa8/68747470733a2f2f692e696d6775722e636f6d2f505756446a46522e676966)

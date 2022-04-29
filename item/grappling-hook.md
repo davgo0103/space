@@ -14,7 +14,7 @@
 
 * 1 鐵錠
 * 1 [鋁棒](aluminium-rod.md)
-* 1 [電線](wire.md)
+* 1 [電線](Wire.md)
 * 2 [鈦錠](titanium-ingot.md)
 * 2 [鋁合金錠](aluminium-alloy-ingot.md)
 

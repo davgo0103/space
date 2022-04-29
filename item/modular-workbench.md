@@ -13,7 +13,7 @@
 ![](<../.gitbook/assets/image (32).png>)
 
 * 1 工作台
-* 1 [電線](wire.md)
+* 1 [電線](Wire.md)
 * 2 石火把
 * 4 [鋁合金錠](aluminium-alloy-ingot.md)
 

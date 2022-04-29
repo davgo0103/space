@@ -13,5 +13,5 @@
 ![](<../.gitbook/assets/image (189).png>)
 
 * 1 絆線鉤
-* 4 [電線](wire.md)
+* 4 [電線](Wire.md)
 * 4 [鋁合金錠](aluminium-alloy-ingot.md)

@@ -13,7 +13,7 @@
 ![](<../.gitbook/assets/image (46).png>)
 
 * 4 [鋁合金錠](aluminium-alloy-ingot.md)
-* 2 [電線](wire.md)
+* 2 [電線](Wire.md)
 * 2 鐵錠
 * 1 白色羊毛
 

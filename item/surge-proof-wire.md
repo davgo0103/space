@@ -12,5 +12,5 @@
 
 ![](<../.gitbook/assets/image (96).png>)
 
-* 3 [電線](wire.md)
+* 3 [電線](Wire.md)
 * 6 [鋁合金錠](aluminium-alloy-ingot.md)
