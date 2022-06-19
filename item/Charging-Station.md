@@ -28,4 +28,4 @@
 
 在為其提供能量的同時，充電站將為放置在其 GUI 中的任何通電物品充電。
 
-![](<../.gitbook/assets/image (219).png>)
+![](<../.gitbook/assets/image (219) (1).png>)

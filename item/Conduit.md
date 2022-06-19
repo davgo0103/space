@@ -10,7 +10,7 @@
 
 可以使用以下物品製作電線：
 
-![](<../.gitbook/assets/image (214) (1).png>)
+![](<../.gitbook/assets/image (214) (1) (1).png>)
 
 * 6 白色羊毛
 * 3 紅石粉
