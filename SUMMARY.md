@@ -22,7 +22,7 @@
   * [太陽能板](item/Solar-Panel.md)
   * [先進的太陽能板](item/Advanced-Solar-Panel.md)
 
-## 特殊物品 <a href="#item" id="item"></a>
+## 舊版特殊物品 <a href="#item" id="item"></a>
 
 * [電線](item/Wire.md)
 * [管線](item/Pipe.md)
