@@ -1,10 +1,12 @@
 # 導管
 
-![](<../.gitbook/assets/image (220).png>)
+![](<../.gitbook/assets/image (220) (1).png>)
 
 導管是[能源系統](../space/energy-systems.md)的一個組件。
 
-#### 製作
+## 獲得
+
+### 製作
 
 可以使用以下物品製作電線：
 
