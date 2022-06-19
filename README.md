@@ -1,10 +1,10 @@
 ---
 description: 歡迎加入 棘夜之都! 本WIKI將帶領各位了解伺服器的特殊物品
-cover: .gitbook/assets/u (1).png
-coverY: -17.431906614785994
 ---
 
 # 入門
+
+![](.gitbook/assets/u.png)
 
 ## Discord
 
