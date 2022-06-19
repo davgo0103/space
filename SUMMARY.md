@@ -22,13 +22,13 @@
   * [太陽能板](item/Solar-Panel.md)
   * [先進的太陽能板](item/Advanced-Solar-Panel.md)
   * [氧氣製造機](item/Tank-Refiller.md)
+  * [燃煤發電機](item/Coal-Generator.md)
 
 ## 舊版特殊物品 <a href="#item" id="item"></a>
 
 * [電線](item/Wire.md)
 * [管線](item/Pipe.md)
 * [板手](item/Wrench.md)
-* [燃煤發電機](item/Coal-Generator.md)
 * [核反應推](item/Nuclear-Reactor.md)
 * [亞德曼合金劍　強化裝置](item/Sword-Editor.md)
 * [模組化工作臺](item/Modular-Workbench.md)
