@@ -23,6 +23,7 @@
   * [先進的太陽能板](item/Advanced-Solar-Panel.md)
   * [氧氣製造機](item/Tank-Refiller.md)
   * [燃煤發電機](item/Coal-Generator.md)
+  * [電池及儲存槽](item/Clusters.md)
 
 ## 舊版特殊物品 <a href="#item" id="item"></a>
 
