@@ -10,22 +10,22 @@
 
 充電站可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (213).png>)
 
-* 1 漏斗
-* 2 [電線](Wire.md)
+* 1 料斗
+* 2 [導管](Conduit.md)
 * 6 [鋁合金錠](aluminium-alloy-ingot.md)
 
 ## 用法
 
 ### 啟動
 
-充電站可以通過從[電線](Wire.md)接收能量來啟動。
+充電站可以通過從[導管](Conduit.md)接收能量來啟動。
 
 一個充電站可以儲存多達 8000 單位的能量。
 
 ### 充電
 
-啟動時，充電站將為放置在其 GUI 左側的所有可充電物品充電。
+在為其提供能量的同時，充電站將為放置在其 GUI 中的任何通電物品充電。
 
-![](<../.gitbook/assets/image (14).png>)
+![](<../.gitbook/assets/image (219).png>)
