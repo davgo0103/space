@@ -14,7 +14,7 @@ description: Magnetic
 
 ### 製作
 
-磁性只能通過製作[鈀鎬](../item/palladium-pickaxe.md)或[強化鈀鎬](../item/reinforced-palladium-pickaxe.md)來獲得。它們分別具有磁性 I 和磁性 II。
+磁性只能通過製作[鈀鎬](../item-1/palladium-pickaxe.md)或[強化鈀鎬](../item-1/reinforced-palladium-pickaxe.md)來獲得。它們分別具有磁性 I 和磁性 II。
 
 ## 用法
 
