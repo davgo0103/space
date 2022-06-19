@@ -2,7 +2,7 @@
 
 ​
 
-![](<../.gitbook/assets/image (218).png>)
+![](<../.gitbook/assets/image (218) (1).png>)
 
 無線充電站是一種[通電機器](../space/energy-systems.md)，可用於為玩家庫存中的通電物品充電。
 
