@@ -17,13 +17,13 @@
   * [充電站](item/Charging-Station.md)
   * [無線充電站](item/Wireless-Charging-Station.md)
   * [人工重力製造機](item/Artificial-Gravity-Generator.md)
+  * [氧氣釋放器](item/Oxygen-Bubble-Distributor.md)
 
 ## 特殊物品 <a href="#item" id="item"></a>
 
 * [電線](item/Wire.md)
 * [管線](item/Pipe.md)
 * [板手](item/Wrench.md)
-* [氧氣釋放器](item/Oxygen-Bubble-Distributor.md)
 * [氧氣收集器](item/Oxygen-Collector.md)
 * [太陽能板](item/Solar-Panel.md)
 * [氧氣製造機](item/Tank-Refiller.md)
