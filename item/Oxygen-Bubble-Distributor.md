@@ -1,4 +1,4 @@
-# 氧氣釋放器
+# ⚡ 氧氣釋放器
 
 ![](<../.gitbook/assets/image (18).png>)
 

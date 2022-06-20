@@ -1,4 +1,4 @@
-# 核反應推
+# ⚡ 核反應推
 
 ![](<../.gitbook/assets/image (219).png>)
 
@@ -10,7 +10,7 @@
 
 核反應堆可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (215).png>)
+![](<../.gitbook/assets/image (215) (1).png>)
 
 * 4 [鈾粉塵](uranium-dust.md)
 * 2 [鋁合金錠](aluminium-alloy-ingot.md)

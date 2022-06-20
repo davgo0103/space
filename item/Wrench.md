@@ -1,4 +1,4 @@
-# 板手
+# ⚡ 板手
 
 ![](<../.gitbook/assets/image (11).png>)
 

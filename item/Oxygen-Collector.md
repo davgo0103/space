@@ -1,4 +1,4 @@
-# 氧氣收集器
+# ⚡ 氧氣收集器
 
 ![](<../.gitbook/assets/image (20).png>)
 

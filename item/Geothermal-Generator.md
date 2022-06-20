@@ -1,4 +1,4 @@
-# 地熱發電機
+# ⚡ 地熱發電機
 
 ![](<../.gitbook/assets/image (213).png>)
 

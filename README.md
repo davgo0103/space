@@ -18,63 +18,51 @@ description: 歡迎加入 棘夜之都! 本WIKI將帶領各位了解伺服器的
 
 ## 開始你的太空之旅
 
-有很多[特殊物品](space/itemlist.md)。但是，即使您剛開始，它也很容易學習。本指南將幫助您踏上探索其他行星的旅程。
 
-#### 基本生存
 
-* 太空中最關鍵的物品是[火箭](item/rocket.md)。這使您可以輕鬆切換您所在的星球並且是隨身攜帶的，但是，如果沒有防護設備，它無助於生存。
-* 簡單地說，太空中的生存方式有三種：[氧氣罩](item/oxygen-mask.md)和[氧氣罐](item/oxygen-tank.md)，在[太空服裝訂製](item/suit-fabricator.md)太空服，或[能源系統](space/energy-systems.md)（“等等”介紹）。
+太空生存有很多[特殊物品](item/)。但是，即使您剛開始學習，也很容易學習。本指南將幫助您踏上探索其他行星的旅程。
 
-**氧氣罩和氧氣罐**
+### 基本生存
 
-* [氧氣罩](item/oxygen-mask.md)具有無限的耐用性，可作為頭盔佩戴。這本身沒有任何效果，你仍然會暴露在真空中死亡。因此，您的背包中必須有一個輕型、一般型或重型的[氧氣罐](item/oxygen-tank.md)，其中等級越高可以容納更多的氧氣。
-* [氧氣罐](item/oxygen-tank.md)不是一種可持續的生存方式，除非你有能力在它們用完時不斷製造新的，或者在你的背包中有一個[打氣筒](item/oxygen-refiller.md)並且在一個啟動的[氧氣釋放器](item/Oxygen-Bubble-Distributor.md)周圍。
+* 太空中最關鍵的物品是[火箭](item/rocket.md)。這使您可以輕鬆地切換您所在的星球，但是，如果沒有防護設備，它將無助於生存。
+* 簡而言之，在太空中生存的方式有三種：[氧氣罩](item/oxygen-mask.md)和[氧氣罐](item/oxygen-tank.md)、在[太空服裝訂製](item/suit-fabricator.md)中製造的太空服或製造[機器](space/energy-systems.md#zu-cheng)（稍後介紹）。
 
-**太空服**
+### **氧氣罩和氧氣罐**
 
-* 有一個特殊的附魔叫做“[密封](te-shu-fu-mo/airtight.md)”，它會讓盔甲在穿著時保持密閉。這樣做的缺點是所有盔甲（頭盔、胸甲、護腿和靴子）都需有要附魔。
-* 幸運的是，有一種簡單的方法可以做到這一點：[太空服裝訂製](item/suit-fabricator.md)可以購買航海家和盜賊套裝。
+* [氧氣罩](item/oxygen-mask.md)具有無限的耐用性，可以作為頭盔佩戴。這本身沒有任何作用，當你戴上它並暴露在真空中時，你仍然會死。因此，有必要在您的背包中擁有一個輕型、一般型或大型氧氣罐，其中越大的氧氣罐容納更多的氧氣。
+* [氧氣罐](item/oxygen-tank.md)不是一種可持續的生存方式，除非您可以建造一個[氧氣補充器](item/Tank-Refiller.md)，以便在耗儘後為其補充氧氣。
 
-#### 停留一段時間..
+### 太空服
 
-[能源系統](space/energy-systems.md)，可以建立基地和更持久的棲息地。您需要以下機器才能開始使用：
+* 太空有一個定制的附魔叫做"[密封](te-shu-fu-mo/airtight.md)"，它可以讓太空服在穿著時保持氣密。這樣做的缺點是所有盔甲（頭盔、胸甲、護腿和靴子）都需要附魔。
+* 幸運的是，有一種簡單的方法可以做到這一點：[太空服裝訂製](item/suit-fabricator.md)可以使用一些容易獲得的資源來製造航海家和盜賊套裝，從而在太空中無限呼吸。
 
-* [太陽能板](item/Solar-Panel.md)
+### 停留一段時間
+
+透過[能源和氧氣系統](space/energy-systems.md)，可以建造基地和更持久的棲息地。您需要以下機器才能開始：
+
+* [太陽能板](item/Solar-Panel.md)，或其他形式的發電機
 * [氧氣釋放器](item/Oxygen-Bubble-Distributor.md)
 * [氧氣收集器](item/Oxygen-Collector.md)
 
-除了一些在機器之間傳輸能量和氧氣的項目外，還有：
+以及一些在能機器之間傳輸能量、氧氣和冷卻劑的[導管](item/Conduit.md)。
 
-* [電線](item/Wire.md)
-* [管線](item/Pipe.md)
+雖然創造和傳輸能量和氧氣的概念起初聽起來有點嚇人，但實際上非常簡單。這是一個一般性的細分：
 
-雖然轉移能量和氧氣的概念起初聽起來有點嚇人，但實際上非常簡單。以下是一些範例：
-
-* [太陽能板](item/Solar-Panel.md)在白天產生能量並在內部儲存能量。除非您使用[電線](item/Wire.md)連接另一台機器，否則能量會持續累積並且永遠不會放電。
+* [太陽能板](item/Solar-Panel.md)在白天產生能量並在內部儲存能量。除非您使用[導管](item/Conduit.md)連接另一台機器，否則能量會一直累積並且永遠不會釋放。
 
 ![](https://camo.githubusercontent.com/06f0c8a2404aa8fcecdcb59258422d9bf12efbd5ab13e0e32686b71bf66bbb4c/68747470733a2f2f692e696d6775722e636f6d2f4654567265574f2e706e67)
 
-* [電線](item/Wire.md)在機器之間傳遞能量。使用電線將[太陽能板](item/Solar-Panel.md)連接到另一台機器，就像在兩者之間放置一條紅石線路一樣簡單。
+* [導管](item/Conduit.md)在機器之間傳輸能量、氧氣和冷卻劑。用[導管](item/Conduit.md)將[太陽能板](item/Solar-Panel.md)連接到另一台機器就像在兩者之間放置一條紅石線路一樣簡單。
 
-![](<.gitbook/assets/image (1).png>)
+![](https://camo.githubusercontent.com/54305bcfcebf36f60224590a05e2f875febb7f69f85a503ddb629e43dc04610f/68747470733a2f2f692e696d6775722e636f6d2f444751683175502e706e67)
 
+* 可以使用[氧氣收集器](item/Oxygen-Collector.md)收集氧氣。這將[電能](space/energy-systems.md)（由[太陽能板](item/Solar-Panel.md)（或任何其他[發電裝置](space/energy-systems.md#shu-chu-neng-liang-de-ji-qi)）產生）和周圍樹葉中的氧氣轉化為氧氣，然後儲存在機器內。
 
+![](https://camo.githubusercontent.com/c3c4f53b8c23a2176ac8735a46fbf4904f063a572f53cf9d246822a8b6bb49ad/68747470733a2f2f692e696d6775722e636f6d2f627248616e6f7a2e706e67)
 
-* [管線](item/Pipe.md)在機器之間傳輸氧氣，其工作方式與電線大致相同，儘管它們傳輸氧氣而不是能量。
+![](<.gitbook/assets/image (216).png>)
 
-![](<.gitbook/assets/image (2).png>)
+* 收集到的氧氣現在可以由[氧氣釋放器](item/Oxygen-Bubble-Distributor.md)使用（這也需要能量）。使用更多[導管](item/Conduit.md)，我們可以放置如下圖中的設置，以創建一個安全的[氧氣氣泡](item/Oxygen-Bubble-Distributor.md#qi-dong)，讓您在[太陽能板](item/Solar-Panel.md)產生足夠[電力](space/energy-systems.md)的情況下生存。
 
-
-
-* 可以使用[氧氣收集器](item/Oxygen-Collector.md)收集氧氣。將能量（由[太陽能板](item/Solar-Panel.md)產生）和周圍樹葉中的氧氣轉化為氧氣，然後儲存在機器內。
-
-![](https://camo.githubusercontent.com/58e54fe244fad55491be59f257d6598158d50d7d56255fc154f34e26e7d3c370/68747470733a2f2f692e696d6775722e636f6d2f4a5a527a7365472e706e67)
-
-![](https://camo.githubusercontent.com/1f0820413d0a557b590ae47be9e003d4a4eae964e659b9a06115811f6cf8c79a/68747470733a2f2f692e696d6775722e636f6d2f6c3042456d49512e706e67)
-
-* 收集到的氧氣現在可以被[氧氣釋放器](item/Oxygen-Bubble-Distributor.md)（這也需要能量）。使用[管線](item/Pipe.md)和[電線](item/Wire.md)，就像下圖的設置，以創建一個安全的氧氣氣泡，讓您在太陽能板產生足夠電力的情況下生存。在[氧氣釋放器](item/Oxygen-Bubble-Distributor.md)附近時，您可以在您的背包中放一個[打氣筒](item/oxygen-refiller.md)填充[氧氣罐](item/oxygen-tank.md)。
-
-![](https://camo.githubusercontent.com/f4ada4942ec00449fdcc3db5cb284edc474a5a3d36fc041075768d110050cd84/68747470733a2f2f692e696d6775722e636f6d2f5a364e63347a532e706e67)
-
-#### &#x20;
-
+![](https://camo.githubusercontent.com/aa2a3b63028f2ceb4a0f4ef9b46482967fc1b548554ec39d6f2371e9495f712c/68747470733a2f2f692e696d6775722e636f6d2f555a346231664d2e706e67)

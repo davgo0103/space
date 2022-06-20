@@ -4,17 +4,26 @@
 
 ### [能源系統](energy-systems.md)
 
-* [電線](../item/Wire.md)
-* [管線](../item/Pipe.md)
-* [扳手](../item/Wrench.md)
+
+
+* [導管](../item/Conduit.md)
+* [密封導管](../item/Sealed-Conduit.md)
 * [充電站](../item/Charging-Station.md)
+* [無線充電站](../item/Wireless-Charging-Station.md)
 * [人工重力製造機](../item/Artificial-Gravity-Generator.md)
 * [氧氣釋放器](../item/Oxygen-Bubble-Distributor.md)
 * [氧氣收集器](../item/Oxygen-Collector.md)
 * [太陽能板](../item/Solar-Panel.md)
-* [氧氣製造機](../item/Tank-Refiller.md)
-* [燃煤發電機](../item/Coal-Generator.md)
-* [核反應堆](../item/Nuclear-Reactor.md)
+* [先進的太陽能板](../item/Advanced-Solar-Panel.md)
+* [氧氣補充器](../item/Tank-Refiller.md)
+* [燃煤發電機](../item/Coal-Generator.md#qi-dong)
+* [電池及儲存槽](../item/Clusters.md)
+* [扳手](../item/Wrench.md)
+* [核反應堆](../item/Nuclear-Reactor.md)​
+* [冷卻液裝置](../item/Coolant-Unit.md)
+* [電解冷凝器](../item/Electrolytic-Condenser.md)
+* [地熱發電機](../item/Geothermal-Generator.md)
+* [輻射保護器](../item/Electron-Belt-Generator.md)
 
 ### 機器和工作台
 
