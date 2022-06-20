@@ -33,6 +33,7 @@
 
 ## 舊版特殊物品 <a href="#item" id="item"></a>
 
+* [鉛錠](item-1/Lead-Ingot.md)
 * [電線](item/Wire.md)
 * [管線](item/Pipe.md)
 * [亞德曼合金劍　強化裝置](item/Sword-Editor.md)

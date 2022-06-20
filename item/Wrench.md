@@ -17,5 +17,5 @@
 
 ![](<../.gitbook/assets/image (12).png>)
 
-* 1 [鐵錠](titanium-ingot.md)
+* 1 鐵錠
 * 2 [鋁合金錠](aluminium-alloy-ingot.md)
