@@ -1,6 +1,6 @@
 # ⚡ 電池及儲存槽
 
-![](<../.gitbook/assets/image (212).png>)
+![](<../.gitbook/assets/image (212) (1).png>)
 
 ### 分為三種類型：
 

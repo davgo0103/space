@@ -1,4 +1,4 @@
-# 霧化器
+# ⚙ 霧化器
 
 ![](<../.gitbook/assets/image (40).png>)
 

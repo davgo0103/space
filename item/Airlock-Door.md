@@ -12,11 +12,11 @@
 
 氣閘門可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (38).png>)
+![](<../.gitbook/assets/image (220).png>)
 
 * 1 鐵門
 * 2 [管線](Pipe.md)
-* 2 [電線](Wire.md)
+* 2 [導管](Conduit.md)
 * 4 [鋁合金錠](aluminium-alloy-ingot.md)
 
 ## 用法

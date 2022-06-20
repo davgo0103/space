@@ -29,11 +29,11 @@
 
 * [亞德曼合金劍　強化裝置](../item/Sword-Editor.md)
 * [模組化工作檯](../item/Modular-Workbench.md)
-* [火箭](../item/Rocket.md)
-* [太空服裝訂製](../item/Suit-Fabricator.md)
-* [氣閘門](../item/airlock-door.md)
-* [霧化器](../item/atomiser.md)
-* [電梯](../item/elevator.md)
+* [火箭](../item/rocket.md)
+* [太空服裝訂製](../item/suit-fabricator.md)
+* [氣閘門](../item/Airlock-Door.md)
+* [霧化器](../item/Atomiser.md)
+* [電梯](../item/Elevator.md)
 * [量子工作檯](../item/quantum-workbench.md)
 
 ### 小工具

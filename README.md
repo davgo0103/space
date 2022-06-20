@@ -24,8 +24,8 @@ description: 歡迎加入 棘夜之都! 本WIKI將帶領各位了解伺服器的
 
 ### 基本生存
 
-* 太空中最關鍵的物品是[火箭](item/Rocket.md)。這使您可以輕鬆地切換您所在的星球，但是，如果沒有防護設備，它將無助於生存。
-* 簡而言之，在太空中生存的方式有三種：[氧氣罩](item/oxygen-mask.md)和[氧氣罐](item/oxygen-tank.md)、在[太空服裝訂製](item/Suit-Fabricator.md)中製造的太空服或製造[機器](space/energy-systems.md#zu-cheng)（稍後介紹）。
+* 太空中最關鍵的物品是[火箭](item/rocket.md)。這使您可以輕鬆地切換您所在的星球，但是，如果沒有防護設備，它將無助於生存。
+* 簡而言之，在太空中生存的方式有三種：[氧氣罩](item/oxygen-mask.md)和[氧氣罐](item/oxygen-tank.md)、在[太空服裝訂製](item/suit-fabricator.md)中製造的太空服或製造[機器](space/energy-systems.md#zu-cheng)（稍後介紹）。
 
 ### **氧氣罩和氧氣罐**
 
@@ -35,7 +35,7 @@ description: 歡迎加入 棘夜之都! 本WIKI將帶領各位了解伺服器的
 ### 太空服
 
 * 太空有一個定制的附魔叫做"[密封](te-shu-fu-mo/airtight.md)"，它可以讓太空服在穿著時保持氣密。這樣做的缺點是所有盔甲（頭盔、胸甲、護腿和靴子）都需要附魔。
-* 幸運的是，有一種簡單的方法可以做到這一點：[太空服裝訂製](item/Suit-Fabricator.md)可以使用一些容易獲得的資源來製造航海家和盜賊套裝，從而在太空中無限呼吸。
+* 幸運的是，有一種簡單的方法可以做到這一點：[太空服裝訂製](item/suit-fabricator.md)可以使用一些容易獲得的資源來製造航海家和盜賊套裝，從而在太空中無限呼吸。
 
 ### 停留一段時間
 
