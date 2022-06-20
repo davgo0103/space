@@ -1,8 +1,8 @@
 # 冷卻液裝置
 
+![](<../.gitbook/assets/image (216).png>)
 
-
-冷卻液裝置是一種[通電機器](https://github.com/Z4OLLIEZ4/Space/wiki/Energy-Systems)，可用於從充電的[冷卻液電池](https://github.com/Z4OLLIEZ4/Space/wiki/Coolant-Cell)和能量（由[導管](https://github.com/Z4OLLIEZ4/Space/wiki/Conduit)提供）產生冷卻液。
+冷卻液裝置是一種[通電機器](../space/energy-systems.md)，可用於從[冷卻劑](coolant-cell.md)和能量（由[導管](Conduit.md)提供）產生冷卻液。
 
 ## 獲得
 
@@ -13,7 +13,7 @@
 ![](<../.gitbook/assets/image (214).png>)
 
 * 4 [鈀錠](palladium-ingot.md)
-* 2[壓縮罐](compressed-tank.md)
+* 2 [壓縮罐](compressed-tank.md)
 * 1 [導管](Conduit.md)
 * 1 [管線](Pipe.md)
 * 1 [電路板](circuit-board.md)

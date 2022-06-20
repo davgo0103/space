@@ -1,6 +1,6 @@
 # 密封導管
 
-![](<../.gitbook/assets/image (216).png>)
+![](<../.gitbook/assets/image (216) (1).png>)
 
 
 

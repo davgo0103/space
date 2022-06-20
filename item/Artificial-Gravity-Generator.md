@@ -10,7 +10,7 @@
 
 人工重力製造機可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (220).png>)
+![](<../.gitbook/assets/image (220) (1).png>)
 
 * 1 [電容](capacitor.md)
 * 1 [導管](Conduit.md)

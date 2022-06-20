@@ -27,6 +27,7 @@
   * [板手](item/Wrench.md)
   * [核反應推](item/Nuclear-Reactor.md)
   * [冷卻液裝置](item/Coolant-Unit.md)
+  * [電解冷凝器](item/Electrolytic-Condenser.md)
 
 ## 舊版特殊物品 <a href="#item" id="item"></a>
 
@@ -90,7 +91,7 @@
 * [鈾粉塵](item/uranium-dust.md)
 * [太陽能頭盔](item/solar-helmet.md)
 * [防護服](item/hazmat-armor.md)
-* [冷卻液槽](item/coolant-cell.md)
+* [冷卻劑](item/coolant-cell.md)
 * [燃料](item/fuel-cell.md)
 * [電池](item/battery.md)
 * [旗子](item/flag.md)
