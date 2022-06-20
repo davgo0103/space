@@ -1,16 +1,20 @@
 ---
-description: 大多數機器都需要能量才能運行。能源系統，用於將能量、電線、管線和機器連接在一起。
+description: 大多數機器都需要能量才能運行。能源系統，用於將能量、導管、管線和機器連接在一起。
 ---
 
 # 能源系統
 
-## 組件
+大多數太空機器都需要能量才能運行。空間包含一個將能源、[導管](../item/Conduit.md)和[機器](itemlist.md#ji-qi-he-gong-zuo-tai)連接在一起的能源系統。
+
+## 組成
 
 ### 輸出能量的機器
 
 * [太陽能板](../item/Solar-Panel.md)
+* [先進的太陽能板](../item/Advanced-Solar-Panel.md)
 * [燃煤發電機](../item/Coal-Generator.md)
 * [核反應堆](../item/Nuclear-Reactor.md)
+* [地熱發電機](../item/Geothermal-Generator.md)
 
 ### 輸入能量的機器
 
@@ -19,36 +23,39 @@ description: 大多數機器都需要能量才能運行。能源系統，用於�
 * [氧氣釋放器](../item/Oxygen-Bubble-Distributor.md)
 * [氧氣製造機](../item/Tank-Refiller.md)
 
+### 儲存能量的機器
+
+* [電池及儲存槽](../item/Clusters.md)
+
 ### 其他
 
-* [電線](../item/Wire.md)
-* [管線](../item/Pipe.md)
+* [導管](../item/Conduit.md)
 
 ## 用法
 
-分為幾個簡單的步驟：
+將能量分解為幾個簡單的步驟：
 
-1. 放下輸出能量的機器。
-2. 放下你想通電的機器。
-3. 使用[電線](../item/Wire.md)將機器和電源連接在一起。
+1. 放下一台輸出能量的機器。
+2. 放下你想要供電的機器。
+3. 使用[導管](../item/Conduit.md)將機器和能源連接在一起。
 
-![](https://camo.githubusercontent.com/4c4b56b2c1df571683e2bb5f3f3ad51e27b0679f63c9c2ec7a9b0abf72cd6572/68747470733a2f2f692e696d6775722e636f6d2f4249334a72385a2e706e67)
+![](https://camo.githubusercontent.com/f612db6ceff7f6f719f87debc5c229abf59b5204dde10a60974785f01305c53d/68747470733a2f2f692e696d6775722e636f6d2f524961715539792e706e67)
 
-一些機器，例如[氧氣收集器](../item/Oxygen-Collector.md)，當被樹葉包圍時，會吸收這種能量並輸出氧氣。它存儲在機器內並且完全沒有用，除非它被轉移到諸如[氧氣釋放器](../item/Oxygen-Bubble-Distributor.md)之類的機器上。幸運的是，使用[管線](../item/Pipe.md)，這是一個簡單的過程。
+一些機器，例如[氧氣收集器](../item/Oxygen-Collector.md)，在被樹葉包圍時吸收能量並輸出氧氣。氧氣儲存在機器中並且完全無用，除非將其轉移到諸如[氧氣釋放器](../item/Oxygen-Bubble-Distributor.md#qi-dong)之類的機器中。值得慶幸的是，這很簡單，因為[導管](../item/Conduit.md)既可以作為電線，也可以作為管子。
 
-轉移氧氣的過程類似：
+因此，傳輸氧氣的過程相同：
 
-1. 放下一台輸出氧氣的機器（[氧氣收集器](../item/Oxygen-Collector.md)）。
-2. 放下一台接受氧氣的機器（[氧氣釋放器](../item/Oxygen-Bubble-Distributor.md)）。
-3. 使用[管線](../item/Pipe.md)將兩台機器連接在一起。
+1. 放下一台製造氧氣的機器（[氧氣收集器](../item/Oxygen-Collector.md)）。
+2. 放下一台能夠接收氧氣的機器（[氧氣釋放器](../item/Oxygen-Bubble-Distributor.md)）。
+3. 使用[導管](../item/Conduit.md)將兩台機器連接在一起。
 
-![](https://camo.githubusercontent.com/1a4137be02ed6cf3980c1c56b7ad65b202414bd00835a6a941ebe3ade43e8405/68747470733a2f2f692e696d6775722e636f6d2f424d56475a63762e706e67)
+![](https://camo.githubusercontent.com/7d18c6abba5663e3b4e6116314f252bcb793208176539224cfebc0b9a6df6bac/68747470733a2f2f692e696d6775722e636f6d2f4a6835546264502e706e67)
 
+完全相同的系統用於傳輸冷卻劑。
 
+[入門指南](../)中有更多圖片教學可幫助您學習能源和電力
 
-## 附加信息
+## 備註
 
-* [電線](../item/Wire.md)和[管線](../item/Pipe.md)可立即跨越無限距離工作。
-* [扳手](../item/Wrench.md)在能源系統是非常有用的。它可以破壞機器並保留其儲存的氧氣和能量，或者右鍵[管線](../item/Pipe.md)或[電線](../item/Wire.md)時，會告訴您系統內的氧氣或能量總量。
-
-[影片教學](https://youtu.be/CvFLJJf2b2c)
+* [導管](../item/Conduit.md)可以遠距離使用。
+* [扳手](../item/Wrench.md)在能源系統中非常有用。它可以破壞機器並保留其儲存的氧氣、能量和冷卻劑，或者當右鍵點擊[導管](../item/Conduit.md)時，它會告訴您系統內的氧氣、能量和冷卻劑的總量。
