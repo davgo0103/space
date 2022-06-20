@@ -29,6 +29,7 @@
   * [冷卻液裝置](item/Coolant-Unit.md)
   * [電解冷凝器](item/Electrolytic-Condenser.md)
   * [地熱發電機](item/Geothermal-Generator.md)
+  * [輻射保護器](item/Electron-Belt-Generator.md)
 
 ## 舊版特殊物品 <a href="#item" id="item"></a>
 
