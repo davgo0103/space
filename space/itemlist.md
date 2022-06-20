@@ -34,7 +34,7 @@
 * [氣閘門](../item/airlock-door.md)
 * [霧化器](../item/atomiser.md)
 * [電梯](../item/elevator.md)
-* [量子工作檯](../item/Quantum-Workbench.md)
+* [量子工作檯](../item/quantum-workbench.md)
 
 ### 小工具
 
