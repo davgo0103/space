@@ -1,6 +1,6 @@
 # ⚡ 冷卻液裝置
 
-![](<../.gitbook/assets/image (216) (1) (1).png>)
+![](<../.gitbook/assets/image (216) (1) (1) (1).png>)
 
 冷卻液裝置是一種[通電機器](../space/energy-systems.md)，可用於從[冷卻劑](coolant-cell.md)和能量（由[導管](Conduit.md)提供）產生冷卻液。
 

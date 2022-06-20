@@ -61,7 +61,7 @@ description: 歡迎加入 棘夜之都! 本WIKI將帶領各位了解伺服器的
 
 ![](https://camo.githubusercontent.com/c3c4f53b8c23a2176ac8735a46fbf4904f063a572f53cf9d246822a8b6bb49ad/68747470733a2f2f692e696d6775722e636f6d2f627248616e6f7a2e706e67)
 
-![](<.gitbook/assets/image (216).png>)
+![](<.gitbook/assets/image (216) (1).png>)
 
 * 收集到的氧氣現在可以由[氧氣釋放器](item/Oxygen-Bubble-Distributor.md)使用（這也需要能量）。使用更多[導管](item/Conduit.md)，我們可以放置如下圖中的設置，以創建一個安全的[氧氣氣泡](item/Oxygen-Bubble-Distributor.md#qi-dong)，讓您在[太陽能板](item/Solar-Panel.md)產生足夠[電力](space/energy-systems.md)的情況下生存。
 

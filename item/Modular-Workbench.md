@@ -10,7 +10,7 @@
 
 模組化工作臺可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (217).png>)
+![](<../.gitbook/assets/image (217) (1).png>)
 
 * 1 工作台
 * 1 [導管](Conduit.md)

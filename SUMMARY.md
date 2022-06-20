@@ -38,6 +38,7 @@
   * [⚙ 電梯](item/elevator.md)
   * [⚙ 量子工作台](item/quantum-workbench.md)
   * [⚙ 鈦工作台](item/Titanium-Workbench.md)
+  * [⚙ 打印機](item/Printer.md)
 
 ## 舊版特殊物品 <a href="#item" id="item"></a>
 
