@@ -38,7 +38,7 @@
 
 ### 小工具
 
-* [裝備控制器](../item/modular-controller.md)
+* [裝備控制器](../item/Modular-Controller.md)
 * [急救包](../item/emergency-kit.md)
 * [爆炸抗性核心](../item/blast-resistance-core.md)
 * [抓鉤](../item/grappling-hook.md)

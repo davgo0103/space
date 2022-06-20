@@ -26,7 +26,7 @@
 
 太空服裝訂製可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (215).png>)
+![](<../.gitbook/assets/image (215) (1).png>)
 
 * 1 工作台
 * 1 [導管](Conduit.md)
