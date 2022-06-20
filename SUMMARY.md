@@ -28,6 +28,7 @@
   * [核反應推](item/Nuclear-Reactor.md)
   * [冷卻液裝置](item/Coolant-Unit.md)
   * [電解冷凝器](item/Electrolytic-Condenser.md)
+  * [地熱發電機](item/Geothermal-Generator.md)
 
 ## 舊版特殊物品 <a href="#item" id="item"></a>
 
