@@ -40,6 +40,7 @@
   * [⚙ 鈦工作台](item/Titanium-Workbench.md)
   * [⚙ 打印機](item/Printer.md)
   * [🎮 裝備控制器](item/Modular-Controller.md)
+  * [🎮 急救包](item/Emergency-Kit.md)
 
 ## 舊版特殊物品 <a href="#item" id="item"></a>
 
@@ -47,7 +48,6 @@
 * [電線](item/Wire.md)
 * [管線](item/Pipe.md)
 * [亞德曼合金劍　強化裝置](item/Sword-Editor.md)
-* [急救包](item/emergency-kit.md)
 * [爆炸抗性核心](item/blast-resistance-core.md)
 * [抓鉤](item/grappling-hook.md)
 * [懸掛式滑翔機](item/hang-glider.md)
