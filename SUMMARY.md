@@ -32,6 +32,7 @@
   * [⚡ 輻射保護器](item/Electron-Belt-Generator.md)
   * [⚙ 模組化工作臺](item/Modular-Workbench.md)
   * [⚙ 火箭](item/rocket.md)
+  * [⚙ 太空服裝訂製](item/suit-fabricator.md)
 
 ## 舊版特殊物品 <a href="#item" id="item"></a>
 
@@ -39,7 +40,6 @@
 * [電線](item/Wire.md)
 * [管線](item/Pipe.md)
 * [亞德曼合金劍　強化裝置](item/Sword-Editor.md)
-* [太空服裝訂製](item/suit-fabricator.md)
 * [氣閘門](item/airlock-door.md)
 * [霧化器](item/atomiser.md)
 * [電梯](item/elevator.md)
@@ -99,6 +99,9 @@
 * [電池](item/battery.md)
 * [旗子](item/flag.md)
 * [垃圾桶](item/trashcan.md)
+* [防護服套裝](item-1/Hazmat-Armor.md)
+* [盜賊套裝](item-1/Rogue-Armor.md)
+* [航海家套裝](item-1/Voyager-Armor.md)
 
 ## 特殊附魔
 

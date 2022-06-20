@@ -1,10 +1,17 @@
-# 太空服裝訂製
+# ⚙ 太空服裝訂製
 
 
 
 ![](<../.gitbook/assets/image (35).png>)
 
 太空服裝訂製是一種工作台，旨在製作太空服。它可以將普通盔甲變成透氣加壓的太空服，可以升級 - 為探索太空做好了完美的準備！
+
+可以製造以下太空服：
+
+* [航海家套裝](../item-1/Voyager-Armor.md)
+* [盜賊套裝](../item-1/Rogue-Armor.md)
+* 探索者套裝
+* [防護服套裝](../item-1/Hazmat-Armor.md)
 
 ### 用法
 
@@ -17,22 +24,10 @@
 
 ### 製作
 
-西裝製造商可以使用以下物品製作：
+太空服裝訂製可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (36).png>)
+![](<../.gitbook/assets/image (215).png>)
 
 * 1 工作台
-* 1 [電線](Wire.md)
+* 1 [導管](Conduit.md)
 * 4 [鋁合金錠](aluminium-alloy-ingot.md)
-
-### 太空服
-
-* 航海家：共5級；基礎太空服。
-* 盜賊：共1級；比基礎的航海家太空服貴，但比航海家係列 1-4 好。
-* [探索者](https://www.youtube.com/watch?v=rXPDnIlCEG8)：共1級；比其他太空服貴，但每件都有特殊功能。每個功能都需要能量，並且可以在[充電站](Charging-Station.md)中[充電](Charging-Station.md)。
-
-### 製作所需資源
-
-* 航海家：現金 以及 黃金盔甲。
-* 盜賊：現金 以及 黃金盔甲。
-* [探索者](https://www.youtube.com/watch?v=rXPDnIlCEG8)：現金 以及 鐵製盔甲。

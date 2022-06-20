@@ -10,7 +10,7 @@
 
 煤炭發電機可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (215) (1) (1).png>)
+![](<../.gitbook/assets/image (215) (1) (1) (1).png>)
 
 * 4 [鈦錠](titanium-ingot.md)
 * 2 鐵錠

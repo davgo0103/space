@@ -16,7 +16,7 @@
 
 可以使用以下物品製作無線充電站：
 
-![](<../.gitbook/assets/image (215) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (215) (1) (1) (1) (1).png>)
 
 * 1 [燃煤發電機](Coal-Generator.md)
 * 1 [鋁合金錠](aluminium-alloy-ingot.md)
