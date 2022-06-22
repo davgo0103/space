@@ -9,7 +9,7 @@
 防護服可以使用以下物品製作：
 
 * 1 鐵製盔甲（頭盔、胸甲、護腿或靴子）
-* 4 [橡膠](rubber.md)
+* 4 [橡膠](Rubber.md)
 
 ![](https://camo.githubusercontent.com/59b68314ceadca8f01380d2b913127d5542f0e54815f4871a065040dd264a6aa/68747470733a2f2f692e696d6775722e636f6d2f413333576f636b2e706e67)
 

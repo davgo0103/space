@@ -14,8 +14,8 @@
 
 ![](<../.gitbook/assets/image (221) (1) (1) (1).png>)
 
-* 1 [電容](capacitor.md)
+* 1 [電容](Capacitor.md)
 * 1 [太陽能板](Solar-Panel.md)
-* 2 [塑料](plastic.md)
-* 2 [防突波電線](surge-proof-wire.md)
+* 2 [塑料](Plastic.md)
+* 2 [防突波電線](Surge-Proof-Wire.md)
 * 3 [鈦錠](titanium-ingot.md)

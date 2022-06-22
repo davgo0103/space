@@ -1,6 +1,6 @@
 # ⚡ 核反應推
 
-![](<../.gitbook/assets/image (219) (1) (1).png>)
+![](<../.gitbook/assets/image (219) (1) (1) (1).png>)
 
 核反應堆是一種[發電機器](../space/energy-systems.md)，可用於從[鈾粉塵](uranium-dust.md)和冷卻劑（由[管道](Conduit.md)提供）中產生能量。
 
@@ -15,7 +15,7 @@
 * 4 [鈾粉塵](uranium-dust.md)
 * 2 [鋁合金錠](aluminium-alloy-ingot.md)
 * 2 [導管](Conduit.md)
-* 1 [高級電路板](advanced-circuit-board.md)
+* 1 [高級電路板](Advanced-Circuit-Board.md)
 
 ## 用法
 

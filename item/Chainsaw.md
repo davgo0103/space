@@ -16,7 +16,7 @@
 
 * 1 鐵斧
 * 1 [電池](battery.md)
-* 1 [橡膠](rubber.md)
-* 1 [塑料](plastic.md)
+* 1 [橡膠](Rubber.md)
+* 1 [塑料](Plastic.md)
 * 1 [導管](Conduit.md)
 * 2 [鋁合金錠](aluminium-alloy-ingot.md)

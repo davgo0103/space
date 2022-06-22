@@ -14,7 +14,7 @@
 
 * 4 [鈦錠](titanium-ingot.md)
 * 3 [鋁合金錠](aluminium-alloy-ingot.md)
-* 1 [鈦罐](titanium-can.md)
+* 1 [鈦罐](Titanium-Can.md)
 * 1 [壓縮罐](compressed-tank.md)
 
 #### 一般型氧氣罐

@@ -65,18 +65,18 @@
 
 ### 製作組件
 
-* [電容](../item/capacitor.md)
-* [防突波電線](../item/surge-proof-wire.md)
-* [通電電線](../item/energized-wire.md)
-* [電路板](../item/circuit-board.md)
-* [高級電路板](../item/advanced-circuit-board.md)
-* [鈦罐](../item/titanium-can.md)
-* [鋁棒](../item/aluminium-rod.md)
+* [電容](../item/Capacitor.md)
+* [防突波電線](../item/Surge-Proof-Wire.md)
+* [通電電線](../item/Energized-Wire.md)
+* [電路板](../item/Circuit-Board.md)
+* [高級電路板](../item/Advanced-Circuit-Board.md)
+* [鈦罐](../item/Titanium-Can.md)
+* [鋁棒](../item/Aluminium-Rod.md)
 * [終界精華](../item/ender-essence.md)
 * [小型火焰精華](../item/small-fire-essence.md)
 * [火焰精華](../item/fire-essence.md)
-* [帆布](../item/canvas.md)
-* [橡膠](../item/rubber.md)
+* [帆布](../item/Canvas.md)
+* [橡膠](../item/Rubber.md)
 
 ### 氧氣
 

@@ -15,7 +15,7 @@
 * 1 鐵製頭盔
 * 4 [鋁合金錠](aluminium-alloy-ingot.md)
 * 1 日光感測器
-* 2 [防突波電線](surge-proof-wire.md)
+* 2 [防突波電線](Surge-Proof-Wire.md)
 
 ## 用法
 

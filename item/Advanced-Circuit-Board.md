@@ -1,6 +1,6 @@
-# 高級電路板
+# 🗜 高級電路板
 
-![](<../.gitbook/assets/image (104).png>)
+![](<../.gitbook/assets/image (229).png>)
 
 高級電路板是一種製作組件。
 
@@ -12,7 +12,7 @@
 
 ![](<../.gitbook/assets/image (204).png>)
 
-* 1 [電路板](circuit-board.md)
+* 1 [電路板](Circuit-Board.md)
 * 2 [鈦錠](titanium-ingot.md)
-* 2 [防突波電線](surge-proof-wire.md)
+* 2 [防突波電線](Surge-Proof-Wire.md)
 * 4 [鈀錠](palladium-ingot.md)

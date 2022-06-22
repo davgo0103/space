@@ -1,6 +1,6 @@
 # 🎲 醫療包
 
-![](<../.gitbook/assets/image (219).png>)
+![](<../.gitbook/assets/image (219) (1).png>)
 
 醫療包 是一種小工具，可用於治療、餵食和移除玩家的所有藥水效果。
 

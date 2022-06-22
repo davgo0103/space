@@ -15,7 +15,7 @@
 ![](<../.gitbook/assets/image (213).png>)
 
 * 4 [鉛錠](../item-1/Lead-Ingot.md)
-* 2 [通電電線](energized-wire.md)
+* 2 [通電電線](Energized-Wire.md)
 * 2 [鈾粉塵](uranium-dust.md)
 * 1 [強化鈀塊](../item-1/qiang-hua-ba-kuai.md)
 

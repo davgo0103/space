@@ -1,6 +1,6 @@
 # ⚙ 鈦工作台
 
-![](<../.gitbook/assets/image (222) (1).png>)
+![](<../.gitbook/assets/image (222) (1) (1).png>)
 
 鈦工作台是一個普通的 Minecraft 工作台，除了它可以在關閉時將物品保留在上面。
 

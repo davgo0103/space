@@ -5,8 +5,8 @@
 電線是[能源系統](../space/energy-systems.md)和製造機器的一個組件。電線分為三種：
 
 * 電線
-* [防突波電線](surge-proof-wire.md)
-* [通電電線](energized-wire.md)
+* [防突波電線](Surge-Proof-Wire.md)
+* [通電電線](Energized-Wire.md)
 
 在能源系統中能放置使用的只有普通電線。
 

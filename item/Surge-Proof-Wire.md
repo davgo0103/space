@@ -1,4 +1,4 @@
-# 防突波電線
+# 🗜 防突波電線
 
 ![](<../.gitbook/assets/image (95).png>)
 
@@ -10,7 +10,7 @@
 
 防突波電線可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (96).png>)
+![](<../.gitbook/assets/image (219).png>)
 
-* 3 [電線](Wire.md)
+* 3 [導管](Conduit.md)
 * 6 [鋁合金錠](aluminium-alloy-ingot.md)

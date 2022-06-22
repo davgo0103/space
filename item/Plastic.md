@@ -1,4 +1,4 @@
-# 塑料
+# 🗜 塑料
 
 ![](<../.gitbook/assets/image (191).png>)
 
@@ -10,6 +10,6 @@
 
 ![](<../.gitbook/assets/image (190).png>)
 
-* 2 [橡膠](rubber.md)
+* 2 [橡膠](Rubber.md)
 * 2 沙
 * 1 木炭

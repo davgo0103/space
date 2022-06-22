@@ -10,10 +10,10 @@
 
 抓鉤可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (220) (1).png>)
+![](<../.gitbook/assets/image (220) (1) (1).png>)
 
 * 1 鐵錠
-* 1 [鋁棒](aluminium-rod.md)
+* 1 [鋁棒](Aluminium-Rod.md)
 * 1 [導管](Conduit.md)
 * 2 [鈦錠](titanium-ingot.md)
 * 2 [鋁合金錠](aluminium-alloy-ingot.md)

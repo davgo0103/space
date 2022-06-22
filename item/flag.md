@@ -12,7 +12,7 @@
 
 ![](<../.gitbook/assets/image (172).png>)
 
-* 1 [鋁棒](aluminium-rod.md)
+* 1 [鋁棒](Aluminium-Rod.md)
 * 6 白色羊毛
 
 ## 用法

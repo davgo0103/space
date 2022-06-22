@@ -13,7 +13,7 @@
 ![](<../.gitbook/assets/image (224).png>)
 
 * 1 鑽石劍
-* 1 [通電電線](energized-wire.md)
-* 1 [高級電路板](advanced-circuit-board.md)
+* 1 [通電電線](Energized-Wire.md)
+* 1 [高級電路板](Advanced-Circuit-Board.md)
 * 2 [強化鋁合金錠](reinforced-aluminium-alloy-ingot.md)
 * 2 [強化鈀錠](reinforced-palladium-ingot.md)

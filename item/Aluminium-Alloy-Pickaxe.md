@@ -12,7 +12,7 @@
 
 ![](<../.gitbook/assets/image (83).png>)
 
-* 2 [鋁棒](aluminium-rod.md)
+* 2 [鋁棒](Aluminium-Rod.md)
 * 3 [鋁合金錠](aluminium-alloy-ingot.md)
 
 ## 用法

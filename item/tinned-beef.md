@@ -2,7 +2,7 @@
 
 ![](<../.gitbook/assets/image (197).png>)
 
-牛肉罐頭是一種食品。食物吃完會剩下[鈦罐](titanium-can.md)。
+牛肉罐頭是一種食品。食物吃完會剩下[鈦罐](Titanium-Can.md)。
 
 ### 製作
 
@@ -11,7 +11,7 @@
 ![](<../.gitbook/assets/image (198).png>)
 
 * 2 牛排
-* 1 [鈦罐](titanium-can.md)
+* 1 [鈦罐](Titanium-Can.md)
 
 ## 用法
 

@@ -10,10 +10,10 @@
 
 電解冷凝器可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (220) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (220) (1) (1) (1) (1).png>)
 
 * 4 [強化鋁合金錠](reinforced-aluminium-alloy-ingot.md)
-* 2 [塑料](plastic.md)
+* 2 [塑料](Plastic.md)
 * 1 [導管](Conduit.md)
 * 1 [冷卻液裝置](Coolant-Unit.md)
 * 1 漏斗

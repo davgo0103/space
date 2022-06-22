@@ -2,7 +2,7 @@
 
 ![](<../.gitbook/assets/image (196).png>)
 
-豬肉罐頭是一種食品。食物吃完會剩下[鈦罐](titanium-can.md)。
+豬肉罐頭是一種食品。食物吃完會剩下[鈦罐](Titanium-Can.md)。
 
 ### 製作
 

@@ -1,4 +1,4 @@
-# 通電電線
+# 🗜 通電電線
 
 ![](<../.gitbook/assets/image (100).png>)
 
@@ -12,5 +12,5 @@
 
 ![](<../.gitbook/assets/image (97).png>)
 
-* 3 [防突波電線](surge-proof-wire.md)
+* 3 [防突波電線](Surge-Proof-Wire.md)
 * 6 [鋁合金錠](aluminium-alloy-ingot.md)

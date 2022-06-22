@@ -10,13 +10,13 @@
 
 手持風扇可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (222).png>)
+![](<../.gitbook/assets/image (222) (1).png>)
 
 * 3 [鈦錠](titanium-ingot.md)
 * 1 [導管](Conduit.md)
-* 1 [電容](capacitor.md)
+* 1 [電容](Capacitor.md)
 * 1 [電池](battery.md)
-* 1 [鋁棒](aluminium-rod.md)
+* 1 [鋁棒](Aluminium-Rod.md)
 
 ## 用法
 

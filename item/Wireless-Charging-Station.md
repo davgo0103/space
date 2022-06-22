@@ -20,9 +20,9 @@
 
 * 1 [燃煤發電機](Coal-Generator.md)
 * 1 [鋁合金錠](aluminium-alloy-ingot.md)
-* 1 [電路板](circuit-board.md)​
+* 1 [電路板](Circuit-Board.md)​
 * 2 [導管](Conduit.md)
-* 2 [鋁棒](aluminium-rod.md)
+* 2 [鋁棒](Aluminium-Rod.md)
 * 2 強化鈀金粒
 
 ### 啟動

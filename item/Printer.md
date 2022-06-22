@@ -16,14 +16,14 @@
 
 打印機可以透過以下物品製作:
 
-![](<../.gitbook/assets/image (219) (1).png>)
+![](<../.gitbook/assets/image (219) (1) (1).png>)
 
-* 4[塑料](plastic.md)
+* 4[塑料](Plastic.md)
 * 2[鋁合金錠](aluminium-alloy-ingot.md)
 * 1[導管](Conduit.md)
-* 1[電容](capacitor.md)
+* 1[電容](Capacitor.md)
 * 1 墨囊
 
 ### 界面
 
-![](<../.gitbook/assets/image (216).png>)
+![](<../.gitbook/assets/image (216) (1).png>)

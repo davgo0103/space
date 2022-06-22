@@ -12,8 +12,8 @@
 
 ![](<../.gitbook/assets/image (209).png>)
 
-* 1 [電路板](circuit-board.md)
-* 2 [防突波電線](surge-proof-wire.md)
+* 1 [電路板](Circuit-Board.md)
+* 2 [防突波電線](Surge-Proof-Wire.md)
 * 2 [鋁合金錠](aluminium-alloy-ingot.md)
 * 4 [鈦錠](titanium-ingot.md)
 

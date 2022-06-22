@@ -1,6 +1,6 @@
 # ⚡ 密封導管
 
-![](<../.gitbook/assets/image (216) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (216) (1) (1) (1) (1) (1).png>)
 
 
 
@@ -12,7 +12,7 @@
 
 可以使用以下物品製作電線：
 
-![](<../.gitbook/assets/image (212) (1) (1).png>)
+![](<../.gitbook/assets/image (212) (1) (1) (1).png>)
 
 * 4 白色混凝土
 * 1 [導管](Conduit.md)

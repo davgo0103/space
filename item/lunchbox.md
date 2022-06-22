@@ -12,7 +12,7 @@
 
 ![](<../.gitbook/assets/image (194).png>)
 
-* 1 [鈦罐](titanium-can.md)
+* 1 [鈦罐](Titanium-Can.md)
 * 4 [鋁合金錠](aluminium-alloy-ingot.md)
 * 4 鐵錠
 

@@ -14,7 +14,7 @@
 
 * 4 [鋁合金錠](aluminium-alloy-ingot.md)
 * 4 橡木樹葉
-* 1 [防突波電線](surge-proof-wire.md)
+* 1 [防突波電線](Surge-Proof-Wire.md)
 
 ## 用法
 

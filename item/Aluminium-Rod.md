@@ -1,4 +1,4 @@
-# 鋁棒
+# 🗜 鋁棒
 
 ![](<../.gitbook/assets/image (108).png>)
 

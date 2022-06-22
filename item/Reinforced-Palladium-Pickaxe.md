@@ -14,5 +14,5 @@
 
 ![](<../.gitbook/assets/image (88).png>)
 
-* 2 [鋁棒](aluminium-rod.md)
+* 2 [鋁棒](Aluminium-Rod.md)
 * 3 [強化鈀錠](reinforced-palladium-ingot.md)

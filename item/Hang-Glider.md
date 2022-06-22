@@ -14,8 +14,8 @@
 
 ![](<../.gitbook/assets/image (60).png>)
 
-* 3 [帆布](canvas.md)
-* 3 [鋁棒](aluminium-rod.md)
+* 3 [帆布](Canvas.md)
+* 3 [鋁棒](Aluminium-Rod.md)
 
 ## 用法
 
