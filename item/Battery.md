@@ -10,7 +10,7 @@
 
 ![](<../.gitbook/assets/image (245).png>)
 
-* 1 [電線](../item-1/old/Wire.md)
+* 1 [導管](Conduit.md)
 * 4 [鋁合金錠](aluminium-alloy-ingot.md)
 * 4 [鈦錠](titanium-ingot.md)
 
