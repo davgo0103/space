@@ -1,6 +1,6 @@
 # ⚡ 電解冷凝器
 
-![](<../.gitbook/assets/image (223) (1) (1).png>)
+![](<../.gitbook/assets/image (223) (1) (1) (1).png>)
 
 電解冷凝器是一種[通電機器](../space/energy-systems.md)，可用於從其**上方的水**產生冷卻劑。它與能量一起使用以填充[冷卻劑](coolant-cell.md)。
 
@@ -10,7 +10,7 @@
 
 電解冷凝器可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (220) (1).png>)
+![](<../.gitbook/assets/image (220) (1) (1).png>)
 
 * 4 [強化鋁合金錠](reinforced-aluminium-alloy-ingot.md)
 * 2 [塑料](plastic.md)

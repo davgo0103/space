@@ -1,6 +1,6 @@
 # ⚡ 輻射保護器
 
-![](<../.gitbook/assets/image (223) (1).png>)
+![](<../.gitbook/assets/image (223) (1) (1).png>)
 
 輻射保護器是一種[通電機器](../space/energy-systems.md)，可用於在 16 格半徑範圍內防止輻射。
 

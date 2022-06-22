@@ -16,7 +16,7 @@
 
 打印機可以透過以下物品製作:
 
-![](<../.gitbook/assets/image (219).png>)
+![](<../.gitbook/assets/image (219) (1).png>)
 
 * 4[塑料](plastic.md)
 * 2[鋁合金錠](aluminium-alloy-ingot.md)

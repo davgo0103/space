@@ -10,7 +10,7 @@
 
 急救包可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (215).png>)
+![](<../.gitbook/assets/image (215) (1).png>)
 
 * 4 [鋁合金錠](aluminium-alloy-ingot.md)
 * 4 [導管](Conduit.md)
