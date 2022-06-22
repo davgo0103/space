@@ -98,10 +98,23 @@
 ### 資源
 
 * [鋁合金錠](../item/aluminium-alloy-ingot.md)
+* [鋁合金粒](../item-1/lv-he-jin-li.md)
+* [鋁合金塊](../item/Aluminium-Alloy-Block.md)
 * [強化鋁合金錠](../item/reinforced-aluminium-alloy-ingot.md)
+* [強化鋁合金粒](../item/Reinforced-aluminium-alloy-nugget.md)
+* [強化鋁合金塊](../item/Reinforced-aluminium-alloy-block.md)
 * [鈀錠](../item/palladium-ingot.md)
+* [鈀粒](../item/Palladium-Nugget.md)
+* [鈀塊](../item/Palladium-Block.md)
 * [強化鈀錠](../item/reinforced-palladium-ingot.md)
+* [強化鈀粒](../item/Reinforced-Palladium-Nugget.md)
+* [強化鈀塊](../item/Reinforced-Palladium-Block.md)
 * [鈦錠](../item/titanium-ingot.md)
+* [鈦粒](../item/Titanium-Nugget.md)
+* [鈦塊](../item/Titanium-Block.md)
+* [鉛錠](../item-1/Lead-Ingot.md)
+* [鉛粒](../item-1/qian-kuai.md)
+* [鉛塊](../item-1/qian-kuai.md)
 * [鈾粉塵](../item/uranium-dust.md)
 
 ### 太空服

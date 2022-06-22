@@ -104,8 +104,8 @@
   * [💎 鉛粒](item/Lead-Nugget.md)
   * [💎 鉛塊](item-1/qian-kuai.md)
   * [💎 鈾粉塵](item/uranium-dust.md)
-  * [👘 航海家套裝](item/Voyager-Armor.md)
-  * [👘 盜賊套裝](item/Rogue-Armor.md)
+  * [👘 航海家套裝](item-1/Voyager-Armor.md)
+  * [👘 盜賊套裝](item-1/Rogue-Armor.md)
 
 ## 舊版特殊物品 <a href="#item" id="item"></a>
 

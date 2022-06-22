@@ -6,8 +6,8 @@
 
 盜賊套裝能夠在缺氧環境中提供生命支持，因為它有[密封](../te-shu-fu-mo/airtight.md)附魔。它還可以阻擋輻射性環境，因為它有[輻射防護](../te-shu-fu-mo/fu-she-fang-hu.md)附魔。
 
-它是在[太空服裝訂製](suit-fabricator.md)中製作和升級的。
+它是在[太空服裝訂製](../item/suit-fabricator.md)中製作和升級的。
 
 ## 模組
 
-可以使用[模組化工作台](Modular-Workbench.md)升級太空服。然後可以在[裝備控制器](Modular-Controller.md)內切換和控制模組。
+可以使用[模組化工作台](../item/Modular-Workbench.md)升級太空服。然後可以在[裝備控制器](../item/Modular-Controller.md)內切換和控制模組。

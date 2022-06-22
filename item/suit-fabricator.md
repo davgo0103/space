@@ -8,8 +8,8 @@
 
 可以製造以下太空服：
 
-* [航海家套裝](Voyager-Armor.md)
-* [盜賊套裝](Rogue-Armor.md)
+* [航海家套裝](../item-1/Voyager-Armor.md)
+* [盜賊套裝](../item-1/Rogue-Armor.md)
 * 探索者套裝
 * [防護服套裝](../item-1/Hazmat-Armor.md)
 
