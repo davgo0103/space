@@ -2,7 +2,7 @@
 
 ![](<../.gitbook/assets/image (225).png>)
 
-航海家套裝能夠在缺氧環境中提供生命支持，因為它有[密封](../te-shu-fu-mo/airtight.md)附魔。
+航海家套裝能夠在缺氧環境中提供生命支持，因為它有[密封](../enchant/airtight.md)附魔。
 
 它是在[太空服裝訂製](../item/suit-fabricator.md)中製作和升級的。
 

@@ -2,7 +2,7 @@
 
 ![](https://camo.githubusercontent.com/22fe56786b654a75267a533329a39d1218a0de8bfc536d9e45c26e712d869c2d/68747470733a2f2f692e696d6775722e636f6d2f4741356336314e2e706e67)
 
-羊毛套裝是一套盔甲，可以用來保護玩家凍傷，因為它附有[絕緣](../te-shu-fu-mo/jue-yuan.md)附魔。
+羊毛套裝是一套盔甲，可以用來保護玩家凍傷，因為它附有[絕緣](../enchant/jue-yuan.md)附魔。
 
 ## 獲得
 

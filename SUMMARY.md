@@ -118,15 +118,16 @@
   * [🚩 電池](item/Battery.md)
   * [🚩 旗子](item/Flag.md)
   * [🚩 垃圾桶](item/Trashcan.md)
+* [📚 特殊附魔](enchant/README.md)
+  * [密封](enchant/airtight.md)
+  * [磁性](enchant/magnetic.md)
+  * [虛空穿越](enchant/void-traversal.md)
+  * [輻射防護](enchant/Hazmat.md)
+  * [放射性](enchant/Radioactive.md)
+  * [絕緣](enchant/jue-yuan.md)
+  * [推力](enchant/tui-li.md)
 
 ## 特殊附魔
-
-* [絕緣](te-shu-fu-mo/jue-yuan.md)
-* [輻射防護](te-shu-fu-mo/fu-she-fang-hu.md)
-* [推力](te-shu-fu-mo/tui-li.md)
-* [密封](te-shu-fu-mo/airtight.md)
-* [磁性](te-shu-fu-mo/magnetic.md)
-* [虛空穿越](te-shu-fu-mo/void-traversal.md)
 
 ## 已棄用 <a href="#item" id="item"></a>
 

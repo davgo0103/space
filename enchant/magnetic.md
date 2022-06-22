@@ -14,7 +14,11 @@ description: Magnetic
 
 ### 製作
 
-磁性只能通過製作[鈀鎬](../item/Palladium-Pickaxe.md)或[強化鈀鎬](../item/Reinforced-Palladium-Pickaxe.md)來獲得。它們分別具有磁性 I 和磁性 II。
+磁性能通過製作[鈀鎬](../item/Palladium-Pickaxe.md)或[強化鈀鎬](../item/Reinforced-Palladium-Pickaxe.md)來獲得。
+
+### 附魔台
+
+如果在玩家經驗等級為 25 或更高的情況下對鎬子進行附魔，磁性有 5% 的機會被賦予鎬子。
 
 ## 用法
 
@@ -22,6 +26,6 @@ description: Magnetic
 
 磁性可以通過蹲下使用，同時拿著帶有附魔的物品。半徑內的物品會被玩家吸引 3 秒。
 
-磁性 I 的半徑為 5 格，磁性 II 的半徑為 8 格。
+磁性的半徑是 6 格方塊。
 
 磁性沒有冷卻時間。

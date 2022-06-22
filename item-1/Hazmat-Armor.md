@@ -2,7 +2,7 @@
 
 ![](https://camo.githubusercontent.com/1d495659fa43363373ee593ff72c51720661c1ea3a0b1108fb6e72eb1b02ee0f/68747470733a2f2f692e696d6775722e636f6d2f58306450507a382e706e67)
 
-防護服是一套可以用來保護玩家免受輻射傷害的套裝，因為它附有[輻射防護](../te-shu-fu-mo/fu-she-fang-hu.md)附魔。
+防護服是一套可以用來保護玩家免受輻射傷害的套裝，因為它附有[輻射防護](../enchant/Hazmat.md)附魔。
 
 ## 獲得
 
