@@ -10,4 +10,4 @@
 
 ![](<../.gitbook/assets/image (215).png>)
 
-* 1[鋁合金錠](Aluminium-Alloy-Ingot.md)
+* 1 [鋁合金錠](../item/aluminium-alloy-ingot.md)

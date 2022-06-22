@@ -13,4 +13,4 @@
 ![](<../.gitbook/assets/image (219).png>)
 
 * 3 [導管](Conduit.md)
-* 6 [鋁合金錠](Aluminium-Alloy-Ingot.md)
+* 6 [鋁合金錠](aluminium-alloy-ingot.md)

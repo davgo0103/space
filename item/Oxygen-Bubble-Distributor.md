@@ -10,10 +10,10 @@
 
 氧氣釋放器可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (222) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (222) (1) (1) (1) (1) (1).png>)
 
-* 2 [鈀錠](palladium-ingot.md)
-* 4 [鋁合金錠](Aluminium-Alloy-Ingot.md)
+* 2 [鈀錠](Palladium-Ingot.md)
+* 4 [鋁合金錠](aluminium-alloy-ingot.md)
 * 1 [導管](Conduit.md)
 * 1 樹葉
 * 1 [電路板](Circuit-Board.md)

@@ -10,8 +10,8 @@
 
 ![](<../.gitbook/assets/image (111).png>)
 
-* 1 [鈀錠](palladium-ingot.md)
+* 1 [鈀錠](Palladium-Ingot.md)
 * 1 打火石
 * 1 熒石粉
-* 2 [鋁合金錠](Aluminium-Alloy-Ingot.md)
+* 2 [鋁合金錠](aluminium-alloy-ingot.md)
 * 2 烈焰粉

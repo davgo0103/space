@@ -12,7 +12,7 @@
 
 ![](<../.gitbook/assets/image (214) (1).png>)
 
-* 4 [鈀錠](palladium-ingot.md)
+* 4 [鈀錠](Palladium-Ingot.md)
 * 2 [壓縮罐](Compressed-Tank.md)
 * 1 [導管](Conduit.md)
 * 1 [管線](Pipe.md)

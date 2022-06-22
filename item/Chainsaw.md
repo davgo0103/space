@@ -19,4 +19,4 @@
 * 1 [橡膠](Rubber.md)
 * 1 [塑料](Plastic.md)
 * 1 [導管](Conduit.md)
-* 2 [鋁合金錠](Aluminium-Alloy-Ingot.md)
+* 2 [鋁合金錠](aluminium-alloy-ingot.md)

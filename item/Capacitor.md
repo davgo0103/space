@@ -14,5 +14,5 @@
 
 * 1 [塑料](Plastic.md)
 * 2 [導管](Conduit.md)
-* 2 [鋁合金錠](Aluminium-Alloy-Ingot.md)
-* 4 [鋁合金粒](Aluminium-Alloy-Nugget.md)
+* 2 [鋁合金錠](aluminium-alloy-ingot.md)
+* 4 [鋁合金粒](../item-1/lv-he-jin-li.md)

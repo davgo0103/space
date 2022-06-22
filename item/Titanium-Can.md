@@ -1,6 +1,6 @@
 # 🗜 鈦罐
 
-![](<../.gitbook/assets/image (225) (1).png>)
+![](<../.gitbook/assets/image (225) (1) (1).png>)
 
 鈦罐是一種製作組件。
 
@@ -12,4 +12,4 @@
 
 ![](<../.gitbook/assets/image (182).png>)
 
-* 7 [鈦錠](titanium-ingot.md)
+* 7 [鈦錠](Titanium-Ingot.md)

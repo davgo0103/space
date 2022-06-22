@@ -1,4 +1,4 @@
-# 鈦錠
+# 💎 鈦錠
 
 ![](<../.gitbook/assets/image (185).png>)
 
@@ -12,7 +12,7 @@
 
 ![](<../.gitbook/assets/image (183).png>)
 
-* 1 [鋁合金錠](Aluminium-Alloy-Ingot.md)
+* 1 [鋁合金錠](aluminium-alloy-ingot.md)
 * 2 金錠
 
 ### 自然生成

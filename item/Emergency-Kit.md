@@ -12,7 +12,7 @@
 
 ![](<../.gitbook/assets/image (215) (1) (1).png>)
 
-* 4 [鋁合金錠](Aluminium-Alloy-Ingot.md)
+* 4 [鋁合金錠](aluminium-alloy-ingot.md)
 * 4 [導管](Conduit.md)
 * 1 金蘋果
 

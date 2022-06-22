@@ -12,7 +12,7 @@
 
 ![](<../.gitbook/assets/image (19).png>)
 
-* 4 [鋁合金錠](Aluminium-Alloy-Ingot.md)
+* 4 [鋁合金錠](aluminium-alloy-ingot.md)
 * 4 橡木樹葉
 * 1 [防突波電線](Surge-Proof-Wire.md)
 

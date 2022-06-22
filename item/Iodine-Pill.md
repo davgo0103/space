@@ -12,10 +12,10 @@
 
 碘丸可以用以下物品製作：
 
-![](<../.gitbook/assets/image (229).png>)
+![](<../.gitbook/assets/image (232).png>)
 
 * 1 金蘋果
-* 8[鉛粒](../item-1/qian-li.md)
+* 8[鉛粒](Lead-Nugget.md)
 
 ## 食用
 

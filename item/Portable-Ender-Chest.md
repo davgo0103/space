@@ -14,7 +14,7 @@ description: 一個可以隨身攜帶並且無需放置即可打開的終界箱
 
 ![](<../.gitbook/assets/image (226) (1).png>)
 
-* 3 [鉛錠](../item-1/Lead-Ingot.md)
+* 3 [鉛錠](Lead-Ingot.md)
 * 1 終界箱
 
 ### 用法

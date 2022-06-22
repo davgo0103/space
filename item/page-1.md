@@ -14,7 +14,7 @@
 
 * 2 [通電電線](Energized-Wire.md)
 * 2 [鈾粉塵](uranium-dust.md)
-* 2 [強化鈀錠](reinforced-palladium-ingot.md)
+* 2 [強化鈀錠](Reinforced-Palladium-Ingot.md)
 * 1 [塑料](Plastic.md)
 * 1 [電池](battery.md)
 * 1 [高級電路板](Advanced-Circuit-Board.md)
@@ -26,7 +26,7 @@
 
 右鍵打開 GUI ，您可以在其中創建、刪除、傳送到或重命名航點。手持傳送器最多可存儲 5 個航點。
 
-![](<../.gitbook/assets/image (225) (1) (1).png>)
+![](<../.gitbook/assets/image (225) (1) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (224) (1) (1).png>)
 

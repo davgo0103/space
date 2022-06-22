@@ -12,7 +12,7 @@
 
 ![](<../.gitbook/assets/image (215) (1) (1) (1) (1) (1) (1) (1).png>)
 
-* 4 [鈦錠](titanium-ingot.md)
+* 4 [鈦錠](Titanium-Ingot.md)
 * 2 鐵錠
 * 1 打火石
 * 1 [導管](Conduit.md)

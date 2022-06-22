@@ -16,6 +16,6 @@
 * 1[鈾粉塵](uranium-dust.md)
 * 1 玻璃片
 * 2[塑料](Plastic.md)
-* 4[鈦錠](titanium-ingot.md)
+* 4[鈦錠](Titanium-Ingot.md)
 
 ![圖片不可用](https://camo.githubusercontent.com/a9b29a9270662fe74a1d69ad65e8a11cf3742b73851363d27d87887ea71119e5/68747470733a2f2f692e696d6775722e636f6d2f3246674f5935642e706e67)

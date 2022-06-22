@@ -30,4 +30,4 @@
 
 * 1 工作台
 * 1 [導管](Conduit.md)
-* 4 [鋁合金錠](Aluminium-Alloy-Ingot.md)
+* 4 [鋁合金錠](aluminium-alloy-ingot.md)

@@ -10,10 +10,10 @@ CO2 洗滌器是一種可用於延長[氧氣罐](Oxygen-Tank.md)使用壽命的�
 
 CO2 洗滌器可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (226).png>)
+![](<../.gitbook/assets/image (228).png>)
 
 * 4 [導管](Conduit.md)
-* 4 [鋁合金錠](Aluminium-Alloy-Ingot.md)
+* 4 [鋁合金錠](aluminium-alloy-ingot.md)
 * 1 橡樹葉
 
 ## 用法

@@ -16,7 +16,7 @@
 
 ![](<../.gitbook/assets/image (213) (1) (1) (1).png>)
 
-* 3 [鋁合金錠](Aluminium-Alloy-Ingot.md)
+* 3 [鋁合金錠](aluminium-alloy-ingot.md)
 * 2 [導管](Conduit.md)
 * 1 日光感測器
 * 2 紅石火把

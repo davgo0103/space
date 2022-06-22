@@ -13,4 +13,4 @@
 ![](<../.gitbook/assets/image (97).png>)
 
 * 3 [防突波電線](Surge-Proof-Wire.md)
-* 6 [鋁合金錠](Aluminium-Alloy-Ingot.md)
+* 6 [鋁合金錠](aluminium-alloy-ingot.md)

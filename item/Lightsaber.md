@@ -14,9 +14,9 @@
 
 * 1 鑽石劍
 * 1 [通電電線](Energized-Wire.md)
-* 1 [強化鋁合金錠](Reinforced-Aluminium-Alloy-Ingot.md)
+* 1 [強化鋁合金錠](reinforced-aluminium-alloy-ingot.md)
 * 2 鑽石
-* 4 [鋁合金錠](Aluminium-Alloy-Ingot.md)
+* 4 [鋁合金錠](aluminium-alloy-ingot.md)
 
 ## 用法
 

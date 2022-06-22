@@ -13,6 +13,6 @@
 ![](<../.gitbook/assets/image (204).png>)
 
 * 1 [電路板](Circuit-Board.md)
-* 2 [鈦錠](titanium-ingot.md)
+* 2 [鈦錠](Titanium-Ingot.md)
 * 2 [防突波電線](Surge-Proof-Wire.md)
-* 4 [鈀錠](palladium-ingot.md)
+* 4 [鈀錠](Palladium-Ingot.md)

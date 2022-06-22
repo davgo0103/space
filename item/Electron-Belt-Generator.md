@@ -13,7 +13,7 @@
 ![](<../.gitbook/assets/image (214).png>)
 
 * 3 鐵錠
-* 2 [鉛錠](../item-1/Lead-Ingot.md)
+* 2 [鉛錠](Lead-Ingot.md)
 * 1 [防突波電線](Surge-Proof-Wire.md)
 * 1 [電容](Capacitor.md)
 * 1 [電路板](Circuit-Board.md)

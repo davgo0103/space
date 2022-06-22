@@ -14,7 +14,7 @@
 
 * 1 鐵製胸甲
 * 2 火藥
-* 4 [鋁合金錠](Aluminium-Alloy-Ingot.md)
+* 4 [鋁合金錠](aluminium-alloy-ingot.md)
 
 ## 用法
 

@@ -17,7 +17,7 @@
 * 1 鐵門
 * 2 [管線](Pipe.md)
 * 2 [導管](Conduit.md)
-* 4 [鋁合金錠](Aluminium-Alloy-Ingot.md)
+* 4 [鋁合金錠](aluminium-alloy-ingot.md)
 
 ## 用法
 

@@ -97,11 +97,11 @@
 
 ### 資源
 
-* [鋁合金錠](../item/Aluminium-Alloy-Ingot.md)
-* [強化鋁合金錠](../item/Reinforced-Aluminium-Alloy-Ingot.md)
-* [鈀錠](../item/palladium-ingot.md)
-* [強化鈀錠](../item/reinforced-palladium-ingot.md)
-* [鈦錠](../item/titanium-ingot.md)
+* [鋁合金錠](../item/aluminium-alloy-ingot.md)
+* [強化鋁合金錠](../item/reinforced-aluminium-alloy-ingot.md)
+* [鈀錠](../item/Palladium-Ingot.md)
+* [強化鈀錠](../item/Reinforced-Palladium-Ingot.md)
+* [鈦錠](../item/Titanium-Ingot.md)
 * [鈾粉塵](../item/uranium-dust.md)
 
 ### 太空服
