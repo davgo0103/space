@@ -10,7 +10,7 @@
 
 鈾粉塵可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (235).png>)
+![](<../.gitbook/assets/image (238).png>)
 
 * 4 鵝卵石
 * 4 烈焰粉

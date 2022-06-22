@@ -14,7 +14,7 @@
 
 氧氣補充器可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (218) (1) (1).png>)
+![](<../.gitbook/assets/image (218) (1) (1) (1).png>)
 
 
 

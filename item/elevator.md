@@ -35,4 +35,4 @@
 
 ### 其他顏色
 
-![](<../.gitbook/assets/image (212) (1).png>)
+![](<../.gitbook/assets/image (212) (1) (1).png>)

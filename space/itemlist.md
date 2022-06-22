@@ -125,7 +125,7 @@
 
 ### 盔甲
 
-* [太陽能頭盔](../item/Solar-Helmet.md)
+* [太陽能頭盔](../item/solar-helmet.md)
 * [防護服](../item/hazmat-armor.md)
 
 ### 各式各樣的

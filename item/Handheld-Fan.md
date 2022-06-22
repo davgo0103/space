@@ -1,6 +1,6 @@
 # 🎲 手持風扇
 
-![](<../.gitbook/assets/image (218).png>)
+![](<../.gitbook/assets/image (218) (1).png>)
 
 手持風扇是一種小工具，可幫助在炎熱行星時降溫。
 

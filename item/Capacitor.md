@@ -10,7 +10,7 @@
 
 電容可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (212).png>)
+![](<../.gitbook/assets/image (212) (1).png>)
 
 * 1 [塑料](Plastic.md)
 * 2 [導管](Conduit.md)

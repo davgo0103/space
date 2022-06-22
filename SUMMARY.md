@@ -106,8 +106,13 @@
   * [💎 鈾粉塵](item/uranium-dust.md)
   * [👘 航海家套裝](item-1/Voyager-Armor.md)
   * [👘 盜賊套裝](item-1/Rogue-Armor.md)
-  * [👘 太陽能頭盔](item/Solar-Helmet.md)
+  * [👘 太陽能頭盔](item/solar-helmet.md)
   * [👘 動能護腿](item/Kinetic-Leggings.md)
+  * [👘 G-靴子](item/G-Boots.md)
+  * [👘 防護服套裝](item/Hazmat-Armor.md)
+  * [👘 銀河胸甲](item/Galactic-Chestplate.md)
+  * [👘 雨衣](item/Raincoat.md)
+  * [Page 1](<item/page-1 (1).md>)
 
 ## 舊版特殊物品 <a href="#item" id="item"></a>
 
@@ -125,11 +130,11 @@
 * [電池](item/battery.md)
 * [旗子](item/flag.md)
 * [垃圾桶](item/trashcan.md)
-* [防護服套裝](item-1/Hazmat-Armor.md)
 * [電線](item/Wire.md)
 
 ## 特殊附魔
 
+* [絕緣](te-shu-fu-mo/jue-yuan.md)
 * [輻射防護](te-shu-fu-mo/fu-she-fang-hu.md)
 * [推力](te-shu-fu-mo/tui-li.md)
 * [密封](te-shu-fu-mo/airtight.md)
