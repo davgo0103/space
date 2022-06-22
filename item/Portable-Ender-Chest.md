@@ -12,7 +12,7 @@ description: 一個可以隨身攜帶並且無需放置即可打開的終界箱
 
 隨身型終界箱可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (226).png>)
+![](<../.gitbook/assets/image (226) (1).png>)
 
 * 3 [鉛錠](../item-1/Lead-Ingot.md)
 * 1 終界箱

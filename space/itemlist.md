@@ -83,17 +83,17 @@
 * [氧氣罩](../item/Oxygen-Mask.md)
 * [壓縮罐](../item/Compressed-Tank.md)
 * [氧氣罐](../item/Oxygen-Tank.md)
-* [CO2洗滌器](../item/co2-scrubber.md)
-* [氧氣罐可視化器](../item/oxygen-tank-visualiser.md)
-* [打氣筒](../item/oxygen-refiller.md)
+* [CO2洗滌器](../item/CO2-Scrubber.md)
+* [氧氣補充器](../item/Tank-Refiller-1.md)
 
 ### 食物
 
-* [法國麵包](../item/baguette.md)
-* [牛肉罐頭](../item/tinned-beef.md)
-* [豬肉罐頭](../item/spam.md)
-* [雞塊](../item/chicken-nugget.md)
-* [便當盒](../item/lunchbox.md)
+* [法國麵包](../item/Baguette.md)
+* [牛肉罐頭](../item/Tinned-Beef.md)
+* [豬肉罐頭](../item/Spam.md)
+* [便當盒](../item/Lunchbox.md)
+* [雞塊](../item/Chicken-Nugget.md)
+* [碘丸](../item/Iodine-Pill.md)
 
 ### 資源
 
