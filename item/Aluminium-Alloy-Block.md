@@ -12,6 +12,6 @@
 
 一塊鋁合金可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (230).png>)
+![](<../.gitbook/assets/image (231).png>)
 
 * 9 [鋁合金錠](aluminium-alloy-ingot.md)

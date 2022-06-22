@@ -102,7 +102,7 @@
 * [鈀錠](../item/palladium-ingot.md)
 * [強化鈀錠](../item/reinforced-palladium-ingot.md)
 * [鈦錠](../item/titanium-ingot.md)
-* [鈾粉塵](../item/Uranium-Dust.md)
+* [鈾粉塵](../item/uranium-dust.md)
 
 ### 太空服
 

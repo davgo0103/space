@@ -102,8 +102,10 @@
   * [💎 鈦塊](item/Titanium-Block.md)
   * [💎 鉛錠](item-1/Lead-Ingot.md)
   * [💎 鉛粒](item/Lead-Nugget.md)
-  * [💎 鉛塊](item/Lead-Block.md)
-  * [💎 鈾粉塵](item/Uranium-Dust.md)
+  * [💎 鉛塊](item-1/qian-kuai.md)
+  * [💎 鈾粉塵](item/uranium-dust.md)
+  * [👘 航海家套裝](item/Voyager-Armor.md)
+  * [👘 盜賊套裝](item/Rogue-Armor.md)
 
 ## 舊版特殊物品 <a href="#item" id="item"></a>
 
@@ -123,12 +125,11 @@
 * [旗子](item/flag.md)
 * [垃圾桶](item/trashcan.md)
 * [防護服套裝](item-1/Hazmat-Armor.md)
-* [盜賊套裝](item-1/Rogue-Armor.md)
-* [航海家套裝](item-1/Voyager-Armor.md)
 * [電線](item/Wire.md)
 
 ## 特殊附魔
 
+* [輻射防護](te-shu-fu-mo/fu-she-fang-hu.md)
 * [推力](te-shu-fu-mo/tui-li.md)
 * [密封](te-shu-fu-mo/airtight.md)
 * [磁性](te-shu-fu-mo/magnetic.md)

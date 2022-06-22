@@ -13,7 +13,7 @@
 鈦金手套可以使用以下方法製作：
 
 * 1[防突波電線](Surge-Proof-Wire.md)
-* 1[鈾粉塵](Uranium-Dust.md)
+* 1[鈾粉塵](uranium-dust.md)
 * 1 玻璃片
 * 2[塑料](Plastic.md)
 * 4[鈦錠](titanium-ingot.md)

@@ -16,7 +16,7 @@
 
 * 4 [鉛錠](../item-1/Lead-Ingot.md)
 * 2 [通電電線](Energized-Wire.md)
-* 2 [鈾粉塵](Uranium-Dust.md)
+* 2 [鈾粉塵](uranium-dust.md)
 * 1 [強化鈀塊](Reinforced-Palladium-Block.md)
 
 ### 放射性

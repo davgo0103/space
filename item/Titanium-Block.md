@@ -1,6 +1,6 @@
 # 💎 鈦塊
 
-![](<../.gitbook/assets/image (227).png>)
+![](<../.gitbook/assets/image (228).png>)
 
 鈦塊是可放置的礦物。
 
