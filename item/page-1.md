@@ -28,7 +28,7 @@
 
 ![](<../.gitbook/assets/image (225).png>)
 
-![](<../.gitbook/assets/image (224).png>)
+![](<../.gitbook/assets/image (224) (1).png>)
 
 ### 備註
 

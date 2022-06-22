@@ -17,4 +17,4 @@
 
 ### 抗放射性
 
-玩家裝備了全套防護服，就不會因為背包有[鈾粉塵](uranium-dust.md)或[放射性箭矢](radioactive-arrow.md)而受到傷害。
+玩家裝備了全套防護服，就不會因為背包有[鈾粉塵](uranium-dust.md)或[放射性箭矢](Radioactive-Arrow.md)而受到傷害。

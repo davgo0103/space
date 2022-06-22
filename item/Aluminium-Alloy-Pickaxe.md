@@ -1,4 +1,4 @@
-# 鋁合金鎬
+# 🛠 鋁合金鎬
 
 ![](<../.gitbook/assets/image (84).png>)
 

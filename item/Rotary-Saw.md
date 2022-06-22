@@ -1,4 +1,4 @@
-# 圓鋸
+# 🛠 圓鋸
 
 ![](<../.gitbook/assets/image (90).png>)
 
@@ -25,8 +25,8 @@
 ### 附魔
 
 圓鋸有附魔效率 VIII 。\
-使用前需要在[充電站充電](Charging-Station.md)。
+使用前需要在[充電站](Charging-Station.md)充電。
 
 ### 特殊效果
 
-圓鋸有更高的機率掉落特殊的礦石(鈦、鋁、鈾、鈀 等等...)
+圓鋸能夠破壞[鉛塊](../item-1/qian-kuai.md)。

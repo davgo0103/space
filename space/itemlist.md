@@ -1,10 +1,6 @@
 # 特殊物品列表
 
-
-
 ### [能源系統](energy-systems.md)
-
-
 
 * [導管](../item/Conduit.md)
 * [密封導管](../item/Sealed-Conduit.md)
@@ -27,38 +23,44 @@
 
 ### 機器和工作台
 
-* [亞德曼合金劍　強化裝置](../item/Sword-Editor.md)
-* [模組化工作檯](../item/Modular-Workbench.md)
+* [模組化工作台](../item/Modular-Workbench.md)
 * [火箭](../item/rocket.md)
 * [太空服裝訂製](../item/suit-fabricator.md)
 * [氣閘門](../item/airlock-door.md)
 * [霧化器](../item/atomiser.md)
 * [電梯](../item/elevator.md)
-* [量子工作檯](../item/quantum-workbench.md)
+* [量子工作台](../item/quantum-workbench.md)
+* [鈦工作台](../item/Titanium-Workbench.md)
+* [打印機](../item/Printer.md)
 
 ### 小工具
 
 * [裝備控制器](../item/Modular-Controller.md)
 * [急救包](../item/Emergency-Kit.md)
 * [爆炸抗性核心](../item/blast-resistance-core.md)
-* [抓鉤](../item/grappling-hook.md)
+* [抓鉤](../item/grappling-hook.md#zhi-zuo)
 * [懸掛式滑翔機](../item/Hang-Glider.md)
 * [光子屏障](../item/Photonic-Barrier.md)
+* [手持風扇](../item/Handheld-Fan.md)
+* [醫療包](../item/Medkit.md)
+* [手持傳送器](../item/page-1.md)
+* [隨身型工作台](../item/Portable-Workbench.md)
+* [隨身型終界箱](../item/Portable-Ender-Chest.md)
 
 ### 工具和武器
 
 * [安德劍和弓](../item/ender-set.md)
-* [亞德曼合金劍](../item/adamantium-sword.md)
+* [亞德曼合金劍](../item/Adamantium-Sword.md)
 * [火劍與弓](../item/fire-set.md)
-* [武士刀](../item/katana.md)
-* [光劍](../item/lightsaber.md)
-* [鈦鎬](../item/copper-pickaxe.md)
-* [鋁合金鎬](../item/aluminium-alloy-pickaxe.md)
-* [強化鋁合金鎬](../item/reinforced-aluminium-alloy-pickaxe.md)
-* [鈀鎬](../item/palladium-pickaxe.md)
-* [強化鈀鎬](../item/reinforced-palladium-pickaxe.md)
-* [圓鋸](../item/rotary-saw.md)
-* [放射性箭矢](../item/radioactive-arrow.md)
+* [武士刀](../item/Katana.md)
+* [光劍](../item/Lightsaber.md)
+* [鈦鎬](../item/Copper-Pickaxe.md)
+* [鋁合金鎬](../item/Aluminium-Alloy-Pickaxe.md)
+* [強化鋁合金鎬](../item/Reinforced-Aluminium-Alloy-Pickaxe.md)
+* [鈀鎬](../item/Palladium-Pickaxe.md)
+* [強化鈀鎬](../item/Reinforced-Palladium-Pickaxe.md)
+* [圓鋸](../item/Rotary-Saw.md)
+* [放射性箭矢](../item/Radioactive-Arrow.md)
 
 ### 製作組件
 
