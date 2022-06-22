@@ -47,7 +47,9 @@
   * [🎲 光子屏障](item/Photonic-Barrier.md)
   * [🎲 手持風扇](item/Handheld-Fan.md)
   * [🎲 醫療包](item/Medkit.md)
-  * [Page 1](item/page-1.md)
+  * [🎲 手持傳送器](item/Handheld-Teleporter.md)
+  * [🎲 隨身型工作台](item/Portable-Workbench.md)
+  * [🎲 隨身型終界箱](item/Portable-Ender-Chest.md)
 
 ## 舊版特殊物品 <a href="#item" id="item"></a>
 

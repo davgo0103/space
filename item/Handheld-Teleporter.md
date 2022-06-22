@@ -1,4 +1,4 @@
-# Page 1
+# 🎲 手持傳送器
 
 
 
@@ -10,7 +10,7 @@
 
 手持傳送器可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (221).png>)
+![](<../.gitbook/assets/image (221) (1).png>)
 
 * 2 [通電電線](energized-wire.md)
 * 2 [鈾粉塵](uranium-dust.md)
