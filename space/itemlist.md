@@ -49,9 +49,7 @@
 
 ### 工具和武器
 
-* [安德劍和弓](../item/ender-set.md)
 * [亞德曼合金劍](../item/Adamantium-Sword.md)
-* [火劍與弓](../item/fire-set.md)
 * [武士刀](../item/Katana.md)
 * [光劍](../item/Lightsaber.md)
 * [鈦鎬](../item/Copper-Pickaxe.md)
@@ -59,8 +57,11 @@
 * [強化鋁合金鎬](../item/Reinforced-Aluminium-Alloy-Pickaxe.md)
 * [鈀鎬](../item/Palladium-Pickaxe.md)
 * [強化鈀鎬](../item/Reinforced-Palladium-Pickaxe.md)
-* [圓鋸](../item/Rotary-Saw.md)
 * [放射性箭矢](../item/Radioactive-Arrow.md)
+* [電鋸](../item/Chainsaw.md)
+* [圓鋸](../item/Rotary-Saw.md)
+* [鈦金手套](../item/Titanium-Gauntlet.md)
+* [核彈頭](../item/Nuclear-Warhead.md)
 
 ### 製作組件
 

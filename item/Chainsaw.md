@@ -12,7 +12,7 @@
 
 電鋸可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (228).png>)
+![](<../.gitbook/assets/image (228) (1).png>)
 
 * 1 鐵斧
 * 1 [電池](battery.md)

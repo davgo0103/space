@@ -62,9 +62,11 @@
   * [🛠 電鋸](item/Chainsaw.md)
   * [🛠 圓鋸](item/Rotary-Saw.md)
   * [🛠 鈦金手套](item/Titanium-Gauntlet.md)
+  * [🛠 核彈頭](item/Nuclear-Warhead.md)
 
 ## 舊版特殊物品 <a href="#item" id="item"></a>
 
+* [強化鈀塊](item-1/qiang-hua-ba-kuai.md)
 * [鉛塊](item-1/qian-kuai.md)
 * [鋁合金粒](item-1/lv-he-jin-li.md)
 * [鉛錠](item-1/Lead-Ingot.md)
