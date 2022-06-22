@@ -1,10 +1,10 @@
 # Table of contents
 
 * [入門](README.md)
+* [材質包](resource-pack.md)
 
 ## Space 太空特殊物品 <a href="#space" id="space"></a>
 
-* [材質包](space/resource-pack.md)
 * [特殊物品列表](space/itemlist.md)
 * [特殊附魔列表](space/enchantments.md)
 * [能源系統](space/energy-systems.md)
@@ -126,8 +126,6 @@
   * [放射性](enchant/Radioactive.md)
   * [絕緣](enchant/jue-yuan.md)
   * [推力](enchant/tui-li.md)
-
-## 特殊附魔
 
 ## 已棄用 <a href="#item" id="item"></a>
 
