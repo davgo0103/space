@@ -1,6 +1,6 @@
-# 爆炸抗性核心
+# 🎲 爆炸抗性核心
 
-![](<../.gitbook/assets/ezgif.com-gif-maker (1).png>)
+![](<../.gitbook/assets/ezgif.com-gif-maker (4).png>)
 
 爆炸抗性核心是一種小工具，可用於抵抗所有形式的爆炸。
 

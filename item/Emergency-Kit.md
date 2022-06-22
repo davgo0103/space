@@ -1,4 +1,4 @@
-# 🎮 急救包
+# 🎲 急救包
 
 ![](<../.gitbook/assets/image (54).png>)
 

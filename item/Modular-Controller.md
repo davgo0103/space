@@ -1,4 +1,4 @@
-# 🎮 裝備控制器
+# 🎲 裝備控制器
 
 ![](<../.gitbook/assets/image (51).png>)
 
