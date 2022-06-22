@@ -2,7 +2,7 @@
 
 ![](<../.gitbook/assets/image (22).png>)
 
-氧氣補充器用於將[氧氣罐](oxygen-tank.md)加滿。
+氧氣補充器用於將[氧氣罐](Oxygen-Tank.md)加滿。
 
 它可以儲存 3000 單位的能量和 3000 單位的氧氣。
 
@@ -19,7 +19,7 @@
 
 
 * 4 [鋁合金錠](aluminium-alloy-ingot.md)​
-* 2 [一般型氧氣罐](oxygen-tank.md#yi-ban-xing-yang-qi-guan)
+* 2 [一般型氧氣罐](Oxygen-Tank.md#yi-ban-xing-yang-qi-guan)
 * 1 [電路板](Circuit-Board.md)
 * 1 [導管](Conduit.md)
 * 1 [管線](Pipe.md)

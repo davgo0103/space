@@ -1,4 +1,4 @@
-# 冷卻液槽
+# 冷卻劑
 
 ![](<../.gitbook/assets/image (168).png>)
 
@@ -13,7 +13,7 @@
 ![](<../.gitbook/assets/image (167).png>)
 
 * 4 冰磚
-* 1 [壓縮罐](compressed-tank.md)
+* 1 [壓縮罐](Compressed-Tank.md)
 
 ## 用法
 

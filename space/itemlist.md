@@ -80,9 +80,9 @@
 
 ### 氧氣
 
-* [氧氣罩](../item/oxygen-mask.md)
-* [壓縮罐](../item/compressed-tank.md)
-* [氧氣罐](../item/oxygen-tank.md)
+* [氧氣罩](../item/Oxygen-Mask.md)
+* [壓縮罐](../item/Compressed-Tank.md)
+* [氧氣罐](../item/Oxygen-Tank.md)
 * [CO2洗滌器](../item/co2-scrubber.md)
 * [氧氣罐可視化器](../item/oxygen-tank-visualiser.md)
 * [打氣筒](../item/oxygen-refiller.md)

@@ -2,7 +2,7 @@
 
 ![](<../.gitbook/assets/image (133).png>)
 
-氧氣罐可視儀的裝備在副手時顯示[氧氣罐](oxygen-tank.md)剩餘的氧氣。
+氧氣罐可視儀的裝備在副手時顯示[氧氣罐](Oxygen-Tank.md)剩餘的氧氣。
 
 ### 製作
 

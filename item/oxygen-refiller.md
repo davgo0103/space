@@ -2,7 +2,7 @@
 
 ![](<../.gitbook/assets/image (135).png>)
 
-打氣筒是一種可用於補充玩家背包中[氧氣罐](oxygen-tank.md)的物品。
+打氣筒是一種可用於補充玩家背包中[氧氣罐](Oxygen-Tank.md)的物品。
 
 ## 獲得
 
@@ -12,7 +12,7 @@
 
 ![](<../.gitbook/assets/image (134).png>)
 
-* 1 [輕型氧氣罐](oxygen-tank.md#qing-xing-yang-qi-guan)
+* 1 [輕型氧氣罐](Oxygen-Tank.md#qing-xing-yang-qi-guan)
 * 1 鑽石
 * 1 紅石粉
 * 2 橡樹葉

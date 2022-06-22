@@ -1,6 +1,6 @@
 # 🗜 鈦罐
 
-![](<../.gitbook/assets/image (225).png>)
+![](<../.gitbook/assets/image (225) (1).png>)
 
 鈦罐是一種製作組件。
 

@@ -25,12 +25,12 @@ description: 歡迎加入 棘夜之都! 本WIKI將帶領各位了解伺服器的
 ### 基本生存
 
 * 太空中最關鍵的物品是[火箭](item/rocket.md)。這使您可以輕鬆地切換您所在的星球，但是，如果沒有防護設備，它將無助於生存。
-* 簡而言之，在太空中生存的方式有三種：[氧氣罩](item/oxygen-mask.md)和[氧氣罐](item/oxygen-tank.md)、在[太空服裝訂製](item/suit-fabricator.md)中製造的太空服或製造[機器](space/energy-systems.md#zu-cheng)（稍後介紹）。
+* 簡而言之，在太空中生存的方式有三種：[氧氣罩](item/Oxygen-Mask.md)和[氧氣罐](item/Oxygen-Tank.md)、在[太空服裝訂製](item/suit-fabricator.md)中製造的太空服或製造[機器](space/energy-systems.md#zu-cheng)（稍後介紹）。
 
 ### **氧氣罩和氧氣罐**
 
-* [氧氣罩](item/oxygen-mask.md)具有無限的耐用性，可以作為頭盔佩戴。這本身沒有任何作用，當你戴上它並暴露在真空中時，你仍然會死。因此，有必要在您的背包中擁有一個輕型、一般型或大型氧氣罐，其中越大的氧氣罐容納更多的氧氣。
-* [氧氣罐](item/oxygen-tank.md)不是一種可持續的生存方式，除非您可以建造一個[氧氣補充器](item/Tank-Refiller.md)，以便在耗儘後為其補充氧氣。
+* [氧氣罩](item/Oxygen-Mask.md)具有無限的耐用性，可以作為頭盔佩戴。這本身沒有任何作用，當你戴上它並暴露在真空中時，你仍然會死。因此，有必要在您的背包中擁有一個輕型、一般型或大型氧氣罐，其中越大的氧氣罐容納更多的氧氣。
+* [氧氣罐](item/Oxygen-Tank.md)不是一種可持續的生存方式，除非您可以建造一個[氧氣補充器](item/Tank-Refiller.md)，以便在耗儘後為其補充氧氣。
 
 ### 太空服
 

@@ -12,7 +12,7 @@
 
 氣閘門可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (221) (1) (1).png>)
+![](<../.gitbook/assets/image (221) (1) (1) (1).png>)
 
 * 1 鐵門
 * 2 [管線](Pipe.md)

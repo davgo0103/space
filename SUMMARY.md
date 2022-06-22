@@ -74,6 +74,9 @@
   * [🗜 帆布](item/Canvas.md)
   * [🗜 橡膠](item/Rubber.md)
   * [🗜 塑料](item/Plastic.md)
+  * [💨 氧氣罩](item/Oxygen-Mask.md)
+  * [💨 壓縮罐](item/Compressed-Tank.md)
+  * [💨 氧氣罐](item/Oxygen-Tank.md)
 
 ## 舊版特殊物品 <a href="#item" id="item"></a>
 
@@ -87,9 +90,6 @@
 * [終界精華](item/ender-essence.md)
 * [小型火焰精華](item/small-fire-essence.md)
 * [火焰精華](item/fire-essence.md)
-* [氧氣罩](item/oxygen-mask.md)
-* [壓縮罐](item/compressed-tank.md)
-* [氧氣罐](item/oxygen-tank.md)
 * [CO2 洗滌器](item/co2-scrubber.md)
 * [氧氣罐可視儀](item/oxygen-tank-visualiser.md)
 * [打氣筒](item/oxygen-refiller.md)
