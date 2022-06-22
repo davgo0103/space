@@ -1,6 +1,6 @@
 # 🗜 高級電路板
 
-![](<../.gitbook/assets/image (229) (1).png>)
+![](<../.gitbook/assets/image (229) (1) (1).png>)
 
 高級電路板是一種製作組件。
 

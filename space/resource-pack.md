@@ -1,21 +1,14 @@
 # 材質包
 
-## 安裝 [OptiFine](https://optifine.net/home)&#x20;
+## 使用伺服器提供的材質包
 
-部分材質使用 [OptiFine](https://optifine.net/home) 優化如果沒有使用 [OptiFine](https://optifine.net/home)開啟遊戲會有材質無法正確顯示。
+### ​首次登入
 
-&#x20;  1.至 [OptiFine](https://optifine.net/home) 官網下載可以進入伺服器的遊戲版本例如：[OptiFine\_1.16.5\_HD\_U\_G8.jar](https://optifine.net/adloadx?f=OptiFine\_1.16.5\_HD\_U\_G8.jar)\
+![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-Me5MH2QAsPSK7I2cqxi%2Fuploads%2FgA6Is1LQnaeopDhlHcPu%2Fimage.png?alt=media\&token=a4df5c7d-d45c-402a-aab4-37fb3e777cf5)
 
+### 啟用資源包設定
 
-![](<../.gitbook/assets/image (181).png>)
-
-&#x20;   2.安裝後直接選擇該版本開啟遊戲(無顯示請重開啟動器)
-
-![](<../.gitbook/assets/image (180).png>)
-
-## 啟用伺服器材質包
-
-如果您按照以下步驟操作，插件可以自動為您啟用它：
+如果您按照以下步驟操作，伺服器可以自動為您啟用它：
 
 1. 離開服務器，點擊“編輯伺服器”，啟用“伺服器資源包”。
 
@@ -24,6 +17,25 @@
 2.重新進入伺服器
 
 材質包現在已啟用！
+
+![](<../.gitbook/assets/image (220).png>)
+
+### <mark style="color:red;">**請務必安裝伺服器的材質包，否則真的會完全不知道怎麼玩哦😅**</mark>
+
+## (可選)安裝 [OptiFine](https://optifine.net/home)&#x20;
+
+部分材質使用 [OptiFine](https://optifine.net/home) 優化。
+
+&#x20;  1.至 [OptiFine](https://optifine.net/home) 官網下載可以進入伺服器的遊戲版本\
+
+
+![](<../.gitbook/assets/image (181).png>)
+
+&#x20;   2.安裝後直接選擇該版本開啟遊戲(沒有看到安裝檔請重開啟動器)
+
+![](<../.gitbook/assets/image (180).png>)
+
+
 
 ## 沒有顯示?
 

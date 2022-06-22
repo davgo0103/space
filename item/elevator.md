@@ -12,7 +12,7 @@
 
 電梯可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (220) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (220) (1) (1) (1) (1) (1).png>)
 
 * 4 [鋁合金錠](aluminium-alloy-ingot.md)
 * 2 [導管](Conduit.md)
