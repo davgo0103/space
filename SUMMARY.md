@@ -106,6 +106,8 @@
   * [💎 鈾粉塵](item/uranium-dust.md)
   * [👘 航海家套裝](item-1/Voyager-Armor.md)
   * [👘 盜賊套裝](item-1/Rogue-Armor.md)
+  * [👘 太陽能頭盔](item/Solar-Helmet.md)
+  * [👘 動能護腿](item/Kinetic-Leggings.md)
 
 ## 舊版特殊物品 <a href="#item" id="item"></a>
 
@@ -117,7 +119,6 @@
 * [火焰精華](item/fire-essence.md)
 * [氧氣罐可視儀](item/oxygen-tank-visualiser.md)
 * [打氣筒](item/oxygen-refiller.md)
-* [太陽能頭盔](item/solar-helmet.md)
 * [防護服](item/hazmat-armor.md)
 * [冷卻劑](item/coolant-cell.md)
 * [燃料](item/fuel-cell.md)

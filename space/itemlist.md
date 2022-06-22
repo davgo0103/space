@@ -119,11 +119,13 @@
 
 ### 太空服
 
+* [航海家套裝](../item-1/Voyager-Armor.md)
 * [探索者盔甲](https://youtu.be/rXPDnIlCEG8)
+* [盜賊套裝](../item-1/Rogue-Armor.md)
 
 ### 盔甲
 
-* [太陽能頭盔](../item/solar-helmet.md)
+* [太陽能頭盔](../item/Solar-Helmet.md)
 * [防護服](../item/hazmat-armor.md)
 
 ### 各式各樣的

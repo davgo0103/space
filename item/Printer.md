@@ -1,6 +1,6 @@
 # ⚙ 打印機
 
-![](<../.gitbook/assets/image (217) (1).png>)
+![](<../.gitbook/assets/image (217) (1) (1).png>)
 
 打印機是一種可以印出圖案的機器，能夠更改[旗子](flag.md)上的設計
 
