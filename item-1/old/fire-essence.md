@@ -1,6 +1,6 @@
 # 火焰精華
 
-![](<../.gitbook/assets/image (113).png>)
+![](<../../.gitbook/assets/image (113).png>)
 
 
 
@@ -12,8 +12,8 @@
 
 火焰精華可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (114).png>)
+![](<../../.gitbook/assets/image (114).png>)
 
 * 1 [小型火焰精華](small-fire-essence.md)
-* 2 [鈀錠](palladium-ingot.md)
-* 4 [鋁合金錠](aluminium-alloy-ingot.md)
+* 2 [鈀錠](../../item/palladium-ingot.md)
+* 4 [鋁合金錠](../../item/aluminium-alloy-ingot.md)

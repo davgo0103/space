@@ -109,28 +109,15 @@
   * [👘 太陽能頭盔](item/solar-helmet.md)
   * [👘 動能護腿](item/Kinetic-Leggings.md)
   * [👘 G-靴子](item/G-Boots.md)
-  * [👘 防護服套裝](item/Hazmat-Armor.md)
+  * [👘 防護服套裝](item-1/Hazmat-Armor.md)
   * [👘 銀河胸甲](item/Galactic-Chestplate.md)
   * [👘 雨衣](item/Raincoat.md)
-  * [Page 1](<item/page-1 (1).md>)
-
-## 舊版特殊物品 <a href="#item" id="item"></a>
-
-* [亞德曼合金劍　強化裝置](item/Sword-Editor.md)
-* [安德劍&安德弓](item/ender-set.md)
-* [火劍&火弓](item/fire-set.md)
-* [終界精華](item/ender-essence.md)
-* [小型火焰精華](item/small-fire-essence.md)
-* [火焰精華](item/fire-essence.md)
-* [氧氣罐可視儀](item/oxygen-tank-visualiser.md)
-* [打氣筒](item/oxygen-refiller.md)
-* [防護服](item/hazmat-armor.md)
-* [冷卻劑](item/coolant-cell.md)
-* [燃料](item/fuel-cell.md)
-* [電池](item/battery.md)
-* [旗子](item/flag.md)
-* [垃圾桶](item/trashcan.md)
-* [電線](item/Wire.md)
+  * [👘 羊毛套裝](item/Wooly-Armor.md)
+  * [📦 桶子](item/Barrels.md)
+  * [🚩 冷卻劑](item/Coolant-Cell.md)
+  * [🚩 電池](item/Battery.md)
+  * [🚩 旗子](item/Flag.md)
+  * [🚩 垃圾桶](item/Trashcan.md)
 
 ## 特殊附魔
 
@@ -140,3 +127,18 @@
 * [密封](te-shu-fu-mo/airtight.md)
 * [磁性](te-shu-fu-mo/magnetic.md)
 * [虛空穿越](te-shu-fu-mo/void-traversal.md)
+
+## 已棄用 <a href="#item" id="item"></a>
+
+* [舊版](item-1/old/README.md)
+  * [亞德曼合金劍　強化裝置](item-1/old/Sword-Editor.md)
+  * [安德劍&安德弓](item-1/old/ender-set.md)
+  * [火劍&火弓](item-1/old/fire-set.md)
+  * [終界精華](item-1/old/ender-essence.md)
+  * [小型火焰精華](item-1/old/small-fire-essence.md)
+  * [火焰精華](item-1/old/fire-essence.md)
+  * [氧氣罐可視儀](item-1/old/oxygen-tank-visualiser.md)
+  * [打氣筒](item-1/old/oxygen-refiller.md)
+  * [防護服](item-1/old/hazmat-armor.md)
+  * [燃料](item-1/old/fuel-cell.md)
+  * [電線](item-1/old/Wire.md)

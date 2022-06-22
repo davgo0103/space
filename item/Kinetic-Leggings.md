@@ -1,6 +1,6 @@
 # 👘 動能護腿
 
-![](<../.gitbook/assets/image (235).png>)
+![](<../.gitbook/assets/image (237).png>)
 
 當玩家四處走動或奔跑時，動能護腿會緩慢地為物品欄中的可充電物品充電。
 
@@ -12,7 +12,7 @@
 
 動能護腿可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (216).png>)
+![](<../.gitbook/assets/image (217).png>)
 
 * 2 [電容](Capacitor.md)
 * 2 [導管](Conduit.md)

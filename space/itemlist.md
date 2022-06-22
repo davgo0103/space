@@ -72,9 +72,9 @@
 * [高級電路板](../item/Advanced-Circuit-Board.md)
 * [鈦罐](../item/Titanium-Can.md)
 * [鋁棒](../item/Aluminium-Rod.md)
-* [終界精華](../item/ender-essence.md)
-* [小型火焰精華](../item/small-fire-essence.md)
-* [火焰精華](../item/fire-essence.md)
+* [終界精華](../item-1/old/ender-essence.md)
+* [小型火焰精華](../item-1/old/small-fire-essence.md)
+* [火焰精華](../item-1/old/fire-essence.md)
 * [帆布](../item/Canvas.md)
 * [橡膠](../item/Rubber.md)
 
@@ -126,12 +126,20 @@
 ### 盔甲
 
 * [太陽能頭盔](../item/solar-helmet.md)
-* [防護服](../item/hazmat-armor.md)
+* [動能護腿](../item/Kinetic-Leggings.md)
+* [G-靴子](../item/G-Boots.md)
+* [防護服套裝](../item-1/Hazmat-Armor.md)
+* [銀河胸甲](../item/Galactic-Chestplate.md)
+* [雨衣](../item/Raincoat.md)
+* [羊毛套裝](../item/Wooly-Armor.md)
+
+### 儲存
+
+* [桶子](../item/Barrels.md)
 
 ### 各式各樣的
 
-* [冷卻液槽](../item/coolant-cell.md)
-* [燃料](../item/fuel-cell.md)
-* [電池](../item/battery.md)
-* [旗子](../item/flag.md)
-* [垃圾桶](../item/trashcan.md)
+* [冷卻劑](../item/Coolant-Cell.md)
+* [電池](../item/Battery.md)
+* [旗子](../item/Flag.md)
+* [垃圾桶](../item/Trashcan.md)

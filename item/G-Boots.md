@@ -14,7 +14,7 @@ G-靴子 可以使用以下物品製作：
 
 ![](<../.gitbook/assets/image (212).png>)
 
-* 1 [電池](battery.md)
+* 1 [電池](Battery.md)
 * 1 鐵製靴子
 * 2 [導管](Conduit.md)
 * 2 [鋁棒](Aluminium-Rod.md)

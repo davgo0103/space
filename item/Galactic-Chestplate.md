@@ -12,7 +12,7 @@
 
 銀河胸甲可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (241).png>)
+![](<../.gitbook/assets/image (244).png>)
 
 * 4[鈦錠](titanium-ingot.md)
 * 2[鈾粉塵](uranium-dust.md)

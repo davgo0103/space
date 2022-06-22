@@ -8,17 +8,17 @@
 
 ### 製作
 
-防護服套裝由[太空服裝訂製](suit-fabricator.md)製作 :&#x20;
+防護服套裝由[太空服裝訂製](../item/suit-fabricator.md)製作 :&#x20;
 
-![](<../.gitbook/assets/image (232).png>)
+![](<../.gitbook/assets/image (234).png>)
 
-* 6 [塑料](Plastic.md)
-* 4 [橡膠](Rubber.md)
-* 4 [鉛錠](../item-1/Lead-Ingot.md)
+* 6 [塑料](../item/Plastic.md)
+* 4 [橡膠](../item/Rubber.md)
+* 4 [鉛錠](Lead-Ingot.md)
 * 1 鐵製套裝
 
 ## 用法
 
 ### 輻射防護
 
-穿了一整套 防護服，就不會因背包中的[鈾粉塵](uranium-dust.md)、[放射性箭矢](Radioactive-Arrow.md)或處於輻射汙染區域內而受到傷害。
+穿了一整套 防護服，就不會因背包中的[鈾粉塵](../item/uranium-dust.md)、[放射性箭矢](../item/Radioactive-Arrow.md)或處於輻射汙染區域內而受到傷害。

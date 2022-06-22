@@ -8,7 +8,7 @@
 
 強化鈀錠可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (227).png>)
+![](<../.gitbook/assets/image (228).png>)
 
 * 1 [強化鋁合金錠](reinforced-aluminium-alloy-ingot.md)
 * 2 [鈀錠](palladium-ingot.md)

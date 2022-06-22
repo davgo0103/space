@@ -8,6 +8,6 @@
 
 鋁合金粒可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (215).png>)
+![](<../.gitbook/assets/image (216).png>)
 
 * 1 [鋁合金錠](../item/aluminium-alloy-ingot.md)

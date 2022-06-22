@@ -1,6 +1,6 @@
 # 火劍&火弓
 
-![](<../.gitbook/assets/image (75).png>)
+![](<../../.gitbook/assets/image (75).png>)
 
 火劍和火弓是可以發射非破壞性火球的特殊武器。
 
@@ -10,23 +10,23 @@
 
 火劍可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (76).png>)
+![](<../../.gitbook/assets/image (76).png>)
 
 * 1 打火石
 * 1  鐵劍
 * 1  螢石粉
 * 2 [火焰精華](fire-essence.md)
-* 4 [鋁合金錠](aluminium-alloy-ingot.md)
+* 4 [鋁合金錠](../../item/aluminium-alloy-ingot.md)
 
 火弓可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (77).png>)
+![](<../../.gitbook/assets/image (77).png>)
 
 * 1 打火石
 * 1 箭矢
 * 1 弓
 * 2 [火焰精華](fire-essence.md)
-* 4 [鋁合金錠](aluminium-alloy-ingot.md)
+* 4 [鋁合金錠](../../item/aluminium-alloy-ingot.md)
 
 ## 用法
 

@@ -1,6 +1,6 @@
 # 安德劍&安德弓
 
-![](<../.gitbook/assets/image (71).png>)
+![](<../../.gitbook/assets/image (71).png>)
 
 安德劍和安德弓是可以投擲終界珍珠的特殊武器。
 
@@ -10,7 +10,7 @@
 
 安德劍可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (72).png>)
+![](<../../.gitbook/assets/image (72).png>)
 
 * 1 鐵劍
 * 2 [終界精華](ender-essence.md)
@@ -18,7 +18,7 @@
 
 安德弓可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (73).png>)
+![](<../../.gitbook/assets/image (73).png>)
 
 * 1 弓
 * 2 箭矢

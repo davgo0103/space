@@ -16,7 +16,7 @@
 * 2 [鈾粉塵](uranium-dust.md)
 * 2 [強化鈀錠](reinforced-palladium-ingot.md)
 * 1 [塑料](Plastic.md)
-* 1 [電池](battery.md)
+* 1 [電池](Battery.md)
 * 1 [高級電路板](Advanced-Circuit-Board.md)
 
 ### 用法

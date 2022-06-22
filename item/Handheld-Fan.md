@@ -15,7 +15,7 @@
 * 3 [鈦錠](titanium-ingot.md)
 * 1 [導管](Conduit.md)
 * 1 [電容](Capacitor.md)
-* 1 [電池](battery.md)
+* 1 [電池](Battery.md)
 * 1 [鋁棒](Aluminium-Rod.md)
 
 ## 用法

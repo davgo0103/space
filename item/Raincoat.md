@@ -10,7 +10,7 @@
 
 雨衣可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (218).png>)
+![](<../.gitbook/assets/image (219).png>)
 
 * 3[橡膠](Rubber.md)
 * 1 皮革胸甲

@@ -1,6 +1,6 @@
 # 👘 航海家套裝
 
-![](<../.gitbook/assets/image (224).png>)
+![](<../.gitbook/assets/image (225).png>)
 
 航海家套裝能夠在缺氧環境中提供生命支持，因為它有[密封](../te-shu-fu-mo/airtight.md)附魔。
 

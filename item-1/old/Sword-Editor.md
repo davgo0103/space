@@ -2,9 +2,9 @@
 
 
 
-![](<../.gitbook/assets/image (28).png>)
+![](<../../.gitbook/assets/image (28).png>)
 
-亞德曼合金劍 強化裝置是一種先進的原型鐵砧，旨在為**眾神鍛造**工具，由亞德曼合金製成。它可用於編輯[亞德曼合金劍](Adamantium-Sword.md)的屬性，還可以添加特殊附魔“推力”。
+亞德曼合金劍 強化裝置是一種先進的原型鐵砧，旨在為**眾神鍛造**工具，由亞德曼合金製成。它可用於編輯[亞德曼合金劍](../../item/Adamantium-Sword.md)的屬性，還可以添加特殊附魔“推力”。
 
 ### 用法
 
@@ -16,15 +16,15 @@
 
 亞德曼合金劍 強化裝置可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (29).png>)
+![](<../../.gitbook/assets/image (29).png>)
 
-* 4 [鈀錠](palladium-ingot.md)
+* 4 [鈀錠](../../item/palladium-ingot.md)
 * 4 工作台
 * 1 鐵劍
 
 ### GUI介面
 
-![](<../.gitbook/assets/image (30).png>)
+![](<../../.gitbook/assets/image (30).png>)
 
 * **圖示 1：**增加鋒利。
 * **圖示 2：**增加耐久等級。

@@ -8,6 +8,6 @@
 
 鈀粒可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (225).png>)
+![](<../.gitbook/assets/image (226).png>)
 
 * 1 [鈀錠](palladium-ingot.md)

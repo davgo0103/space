@@ -11,7 +11,7 @@
 * [航海家套裝](../item-1/Voyager-Armor.md)
 * [盜賊套裝](../item-1/Rogue-Armor.md)
 * 探索者套裝
-* [防護服套裝](Hazmat-Armor.md)
+* [防護服套裝](../item-1/Hazmat-Armor.md)
 
 ### 用法
 
