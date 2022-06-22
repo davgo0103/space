@@ -13,7 +13,7 @@
 ![](<../.gitbook/assets/image (165).png>)
 
 * 1 鐵製頭盔
-* 4 [鋁合金錠](aluminium-alloy-ingot.md)
+* 4 [鋁合金錠](Aluminium-Alloy-Ingot.md)
 * 1 日光感測器
 * 2 [防突波電線](Surge-Proof-Wire.md)
 

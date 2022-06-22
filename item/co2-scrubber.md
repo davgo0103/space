@@ -13,7 +13,7 @@ CO2 洗滌器可以使用以下物品製作：
 ![](<../.gitbook/assets/image (226).png>)
 
 * 4 [導管](Conduit.md)
-* 4 [鋁合金錠](aluminium-alloy-ingot.md)
+* 4 [鋁合金錠](Aluminium-Alloy-Ingot.md)
 * 1 橡樹葉
 
 ## 用法

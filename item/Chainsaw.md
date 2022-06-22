@@ -12,11 +12,11 @@
 
 電鋸可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (228) (1).png>)
+![](<../.gitbook/assets/image (228) (1) (1).png>)
 
 * 1 鐵斧
 * 1 [電池](battery.md)
 * 1 [橡膠](Rubber.md)
 * 1 [塑料](Plastic.md)
 * 1 [導管](Conduit.md)
-* 2 [鋁合金錠](aluminium-alloy-ingot.md)
+* 2 [鋁合金錠](Aluminium-Alloy-Ingot.md)

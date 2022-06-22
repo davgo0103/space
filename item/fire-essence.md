@@ -16,4 +16,4 @@
 
 * 1 [小型火焰精華](small-fire-essence.md)
 * 2 [鈀錠](palladium-ingot.md)
-* 4 [鋁合金錠](aluminium-alloy-ingot.md)
+* 4 [鋁合金錠](Aluminium-Alloy-Ingot.md)

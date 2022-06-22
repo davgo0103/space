@@ -12,7 +12,7 @@
 
 ![](<../.gitbook/assets/image (223) (1).png>)
 
-* 6 [鋁合金粒](../item-1/lv-he-jin-li.md)
+* 6 [鋁合金粒](Aluminium-Alloy-Nugget.md)
 * 3 金蘋果
 
 ## 用法

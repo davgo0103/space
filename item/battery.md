@@ -11,7 +11,7 @@
 ![](<../.gitbook/assets/image (205).png>)
 
 * 1 [電線](Wire.md)
-* 4 [鋁合金錠](aluminium-alloy-ingot.md)
+* 4 [鋁合金錠](Aluminium-Alloy-Ingot.md)
 * 4 [鈦錠](titanium-ingot.md)
 
 ## 用法

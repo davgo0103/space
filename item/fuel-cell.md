@@ -12,7 +12,7 @@
 
 ![](<../.gitbook/assets/image (169).png>)
 
-* 7 [鋁合金錠](aluminium-alloy-ingot.md)
+* 7 [鋁合金錠](Aluminium-Alloy-Ingot.md)
 * 1 火把
 * 1 [電線](Wire.md)
 

@@ -16,7 +16,7 @@
 
 * 1 [電線](Wire.md)
 * 1 [電池](battery.md)
-* 3 [鋁合金錠](aluminium-alloy-ingot.md)
+* 3 [鋁合金錠](Aluminium-Alloy-Ingot.md)
 * 1 [鈦錠](titanium-ingot.md)
 * 1 [鈀錠](palladium-ingot.md)
 

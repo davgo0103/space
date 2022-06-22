@@ -13,4 +13,4 @@
 ![](<../.gitbook/assets/image (199).png>)
 
 * 1 [鈦罐](Titanium-Can.md)
-* 8 [鋁合金錠](aluminium-alloy-ingot.md)
+* 8 [鋁合金錠](Aluminium-Alloy-Ingot.md)

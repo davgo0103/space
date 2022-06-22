@@ -12,7 +12,7 @@
 
 ![](<../.gitbook/assets/image (220) (1) (1) (1) (1).png>)
 
-* 4 [強化鋁合金錠](reinforced-aluminium-alloy-ingot.md)
+* 4 [強化鋁合金錠](Reinforced-Aluminium-Alloy-Ingot.md)
 * 2 [塑料](Plastic.md)
 * 1 [導管](Conduit.md)
 * 1 [冷卻液裝置](Coolant-Unit.md)

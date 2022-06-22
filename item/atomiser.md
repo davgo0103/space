@@ -14,7 +14,7 @@
 
 * 1 [電路板](Circuit-Board.md)
 * 2 [防突波電線](Surge-Proof-Wire.md)
-* 2 [鋁合金錠](aluminium-alloy-ingot.md)
+* 2 [鋁合金錠](Aluminium-Alloy-Ingot.md)
 * 4 [鈦錠](titanium-ingot.md)
 
 ## 用法

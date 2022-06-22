@@ -14,6 +14,6 @@
 
 * 1 [電容](Capacitor.md)
 * 2 [導管](Conduit.md)
-* 1 [強化鋁合金錠](reinforced-aluminium-alloy-ingot.md)
-* 1 [鋁合金錠](aluminium-alloy-ingot.md)
+* 1 [強化鋁合金錠](Reinforced-Aluminium-Alloy-Ingot.md)
+* 1 [鋁合金錠](Aluminium-Alloy-Ingot.md)
 * 4 [塑料](Plastic.md)

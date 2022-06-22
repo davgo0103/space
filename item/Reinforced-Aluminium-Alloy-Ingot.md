@@ -1,4 +1,4 @@
-# 強化鋁合金錠
+# 💎 強化鋁合金錠
 
 ![](<../.gitbook/assets/image (150).png>)
 
@@ -11,4 +11,4 @@
 ![](<../.gitbook/assets/image (149).png>)
 
 * 1 [鈀錠](palladium-ingot.md)
-* 2 [鋁合金錠](aluminium-alloy-ingot.md)
+* 2 [鋁合金錠](Aluminium-Alloy-Ingot.md)

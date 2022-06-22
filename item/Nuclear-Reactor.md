@@ -10,10 +10,10 @@
 
 核反應堆可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (215) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (215) (1) (1) (1) (1) (1) (1).png>)
 
 * 4 [鈾粉塵](uranium-dust.md)
-* 2 [鋁合金錠](aluminium-alloy-ingot.md)
+* 2 [鋁合金錠](Aluminium-Alloy-Ingot.md)
 * 2 [導管](Conduit.md)
 * 1 [高級電路板](Advanced-Circuit-Board.md)
 

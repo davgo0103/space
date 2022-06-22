@@ -14,7 +14,7 @@
 
 * 1 鑽石
 * 4 [導管](Conduit.md)
-* 4 [鋁合金錠](aluminium-alloy-ingot.md)
+* 4 [鋁合金錠](Aluminium-Alloy-Ingot.md)
 
 ## 用法
 
@@ -22,4 +22,4 @@
 
 點擊打開 GUI。用於管理該太空服的模組。
 
-![](<../.gitbook/assets/image (215) (1) (1).png>)
+![](<../.gitbook/assets/image (215) (1) (1) (1).png>)

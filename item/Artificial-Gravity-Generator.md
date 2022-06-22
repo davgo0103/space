@@ -15,7 +15,7 @@
 * 1 [電容](Capacitor.md)
 * 1 [導管](Conduit.md)
 * 1 [電路板](Circuit-Board.md)
-* 6 [鋁合金錠](aluminium-alloy-ingot.md)
+* 6 [鋁合金錠](Aluminium-Alloy-Ingot.md)
 
 ## 用法
 

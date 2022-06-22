@@ -16,7 +16,7 @@
 * 1  鐵劍
 * 1  螢石粉
 * 2 [火焰精華](fire-essence.md)
-* 4 [鋁合金錠](aluminium-alloy-ingot.md)
+* 4 [鋁合金錠](Aluminium-Alloy-Ingot.md)
 
 火弓可以使用以下物品製作：
 
@@ -26,7 +26,7 @@
 * 1 箭矢
 * 1 弓
 * 2 [火焰精華](fire-essence.md)
-* 4 [鋁合金錠](aluminium-alloy-ingot.md)
+* 4 [鋁合金錠](Aluminium-Alloy-Ingot.md)
 
 ## 用法
 

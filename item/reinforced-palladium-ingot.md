@@ -10,5 +10,5 @@
 
 ![](<../.gitbook/assets/image (153).png>)
 
-* 1 [強化鋁合金錠](reinforced-aluminium-alloy-ingot.md)
+* 1 [強化鋁合金錠](Reinforced-Aluminium-Alloy-Ingot.md)
 * 2 [鈀錠](palladium-ingot.md)

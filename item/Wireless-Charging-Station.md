@@ -16,10 +16,10 @@
 
 可以使用以下物品製作無線充電站：
 
-![](<../.gitbook/assets/image (215) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (215) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 * 1 [燃煤發電機](Coal-Generator.md)
-* 1 [鋁合金錠](aluminium-alloy-ingot.md)
+* 1 [鋁合金錠](Aluminium-Alloy-Ingot.md)
 * 1 [電路板](Circuit-Board.md)​
 * 2 [導管](Conduit.md)
 * 2 [鋁棒](Aluminium-Rod.md)

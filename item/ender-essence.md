@@ -14,5 +14,5 @@
 
 * 1 烈焰粉
 * 1 [鈀錠](palladium-ingot.md)
-* 2 [鋁合金錠](aluminium-alloy-ingot.md)
+* 2 [鋁合金錠](Aluminium-Alloy-Ingot.md)
 * 3 終界珍珠

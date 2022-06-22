@@ -1,4 +1,4 @@
-# ⚙ 模組化工作臺
+# ⚙ 模組化工作台
 
 ![](<../.gitbook/assets/image (31).png>)
 
@@ -15,7 +15,7 @@
 * 1 工作台
 * 1 [導管](Conduit.md)
 * 2 紅石火把
-* 4 [鋁合金錠](aluminium-alloy-ingot.md)
+* 4 [鋁合金錠](Aluminium-Alloy-Ingot.md)
 
 ## 用法
 
@@ -23,7 +23,7 @@
 
 在模組化工作台上打開其 GUI。只需將太空服放置在 GUI 中的相關位置中即可使用，任何有效的模組都將出現在 GUI 中以供購買。只能在附有[密封](../te-shu-fu-mo/airtight.md)附魔的盔甲上購買模塊。如果該模塊已在此盔甲上購買，點擊它將在啟用/禁用之間切換，無需額外費用。
 
-![](<../.gitbook/assets/image (215) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (215) (1) (1) (1) (1) (1).png>)
 
 ### 模組
 

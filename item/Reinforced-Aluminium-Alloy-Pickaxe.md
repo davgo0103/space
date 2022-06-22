@@ -13,4 +13,4 @@
 ![](<../.gitbook/assets/image (86).png>)
 
 * 2 [鋁棒](Aluminium-Rod.md)
-* 3 [強化鋁合金錠](reinforced-aluminium-alloy-ingot.md)
+* 3 [強化鋁合金錠](Reinforced-Aluminium-Alloy-Ingot.md)

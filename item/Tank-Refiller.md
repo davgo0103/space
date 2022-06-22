@@ -18,7 +18,7 @@
 
 
 
-* 4 [鋁合金錠](aluminium-alloy-ingot.md)​
+* 4 [鋁合金錠](Aluminium-Alloy-Ingot.md)​
 * 2 [一般型氧氣罐](Oxygen-Tank.md#yi-ban-xing-yang-qi-guan)
 * 1 [電路板](Circuit-Board.md)
 * 1 [導管](Conduit.md)

@@ -18,4 +18,4 @@
 ![](<../.gitbook/assets/image (12).png>)
 
 * 1 鐵錠
-* 2 [鋁合金錠](aluminium-alloy-ingot.md)
+* 2 [鋁合金錠](Aluminium-Alloy-Ingot.md)

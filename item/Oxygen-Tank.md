@@ -19,7 +19,7 @@
 ![](<../.gitbook/assets/image (201).png>)
 
 * 4 [鈦錠](titanium-ingot.md)
-* 3 [鋁合金錠](aluminium-alloy-ingot.md)
+* 3 [鋁合金錠](Aluminium-Alloy-Ingot.md)
 * 1 [鈦罐](Titanium-Can.md)
 * 1 [壓縮罐](Compressed-Tank.md)
 
@@ -29,7 +29,7 @@
 
 ![](<../.gitbook/assets/image (202).png>)
 
-* 4 [鋁合金錠](aluminium-alloy-ingot.md)
+* 4 [鋁合金錠](Aluminium-Alloy-Ingot.md)
 * 4 [鈦錠](titanium-ingot.md)
 * 1 [輕型氧氣罐](Oxygen-Tank.md#qing-xing-yang-qi-guan)
 

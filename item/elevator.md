@@ -14,7 +14,7 @@
 
 ![](<../.gitbook/assets/image (220) (1) (1) (1).png>)
 
-* 4 [鋁合金錠](aluminium-alloy-ingot.md)
+* 4 [鋁合金錠](Aluminium-Alloy-Ingot.md)
 * 2 [導管](Conduit.md)
 * 2 鐵錠
 * 1 白色羊毛

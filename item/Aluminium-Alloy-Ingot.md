@@ -1,4 +1,4 @@
-# 鋁合金錠
+# 💎 鋁合金錠
 
 ![](<../.gitbook/assets/image (148).png>)
 

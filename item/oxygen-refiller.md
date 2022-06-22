@@ -16,7 +16,7 @@
 * 1 鑽石
 * 1 紅石粉
 * 2 橡樹葉
-* 4 [鋁合金錠](aluminium-alloy-ingot.md)
+* 4 [鋁合金錠](Aluminium-Alloy-Ingot.md)
 
 ## 用法
 

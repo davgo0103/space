@@ -83,22 +83,22 @@
 * [氧氣罩](../item/Oxygen-Mask.md)
 * [壓縮罐](../item/Compressed-Tank.md)
 * [氧氣罐](../item/Oxygen-Tank.md)
-* [CO2洗滌器](../item/CO2-Scrubber.md)
+* [CO2洗滌器](../item/co2-scrubber.md)
 * [氧氣補充器](../item/Tank-Refiller-1.md)
 
 ### 食物
 
-* [法國麵包](../item/Baguette.md)
-* [牛肉罐頭](../item/Tinned-Beef.md)
-* [豬肉罐頭](../item/Spam.md)
-* [便當盒](../item/Lunchbox.md)
-* [雞塊](../item/Chicken-Nugget.md)
+* [法國麵包](../item/baguette.md)
+* [牛肉罐頭](../item/tinned-beef.md)
+* [豬肉罐頭](../item/spam.md)
+* [便當盒](../item/lunchbox.md)
+* [雞塊](../item/chicken-nugget.md)
 * [碘丸](../item/Iodine-Pill.md)
 
 ### 資源
 
-* [鋁合金錠](../item/aluminium-alloy-ingot.md)
-* [強化鋁合金錠](../item/reinforced-aluminium-alloy-ingot.md)
+* [鋁合金錠](../item/Aluminium-Alloy-Ingot.md)
+* [強化鋁合金錠](../item/Reinforced-Aluminium-Alloy-Ingot.md)
 * [鈀錠](../item/palladium-ingot.md)
 * [強化鈀錠](../item/reinforced-palladium-ingot.md)
 * [鈦錠](../item/titanium-ingot.md)
