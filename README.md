@@ -6,6 +6,10 @@ description: 歡迎加入 棘夜之都! 本WIKI將帶領各位了解伺服器的
 
 ![](.gitbook/assets/u.png)
 
+## 開始之前
+
+#### 請先確認你能夠正確的[使用伺服器提供的材質包](space/resource-pack.md)，如果不知道怎麼操作的可以[看這裡](space/resource-pack.md)哦\~
+
 ## Discord
 
 伺服器的DC加入網址如下\
