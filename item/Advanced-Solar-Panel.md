@@ -18,4 +18,4 @@
 * 1 [太陽能板](Solar-Panel.md)
 * 2 [塑料](Plastic.md)
 * 2 [防突波電線](Surge-Proof-Wire.md)
-* 3 [鈦錠](Titanium-Ingot.md)
+* 3 [鈦錠](titanium-ingot.md)

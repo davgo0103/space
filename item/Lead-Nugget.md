@@ -10,4 +10,4 @@
 
 ![](<../.gitbook/assets/image (224).png>)
 
-* 1 [鉛錠](Lead-Ingot.md)
+* 1  [鉛錠](../item-1/Lead-Ingot.md)

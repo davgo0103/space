@@ -10,7 +10,7 @@
 
 ![](<../.gitbook/assets/image (220).png>)
 
-* 1 [鋁合金錠](aluminium-alloy-ingot.md)
+* 1 [鋁合金錠](../item/aluminium-alloy-ingot.md)
 * 2 金錠
 
 ### 自然生成

@@ -10,4 +10,4 @@
 
 ![](<../.gitbook/assets/image (224).png>)
 
-* 1 [鈀錠](Palladium-Ingot.md)
+* 1 [鈀錠](palladium-ingot.md)

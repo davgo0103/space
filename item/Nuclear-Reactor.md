@@ -2,7 +2,7 @@
 
 ![](<../.gitbook/assets/image (219) (1) (1) (1).png>)
 
-核反應堆是一種[發電機器](../space/energy-systems.md)，可用於從[鈾粉塵](uranium-dust.md)和冷卻劑（由[管道](Conduit.md)提供）中產生能量。
+核反應堆是一種[發電機器](../space/energy-systems.md)，可用於從[鈾粉塵](Uranium-Dust.md)和冷卻劑（由[管道](Conduit.md)提供）中產生能量。
 
 ## 獲得
 
@@ -12,7 +12,7 @@
 
 ![](<../.gitbook/assets/image (215) (1) (1) (1) (1) (1) (1).png>)
 
-* 4 [鈾粉塵](uranium-dust.md)
+* 4 [鈾粉塵](Uranium-Dust.md)
 * 2 [鋁合金錠](aluminium-alloy-ingot.md)
 * 2 [導管](Conduit.md)
 * 1 [高級電路板](Advanced-Circuit-Board.md)
@@ -21,7 +21,7 @@
 
 ### 啟動
 
-核反應堆可以使用[鈾粉塵](uranium-dust.md)和冷卻劑作為燃料。一旦冷卻劑達到 300 ，將消耗 1x [鈾粉塵](uranium-dust.md)並產生 10000 能量。
+核反應堆可以使用[鈾粉塵](Uranium-Dust.md)和冷卻劑作為燃料。一旦冷卻劑達到 300 ，將消耗 1x [鈾粉塵](Uranium-Dust.md)並產生 10000 能量。
 
 一個核反應堆可以儲存多達 2000000 單位的能量和多達 1000000 單位的冷卻劑。
 

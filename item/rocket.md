@@ -27,5 +27,5 @@
 * 1 [強化鋁合金錠](reinforced-aluminium-alloy-ingot.md)
 * 1 [鈦罐](Titanium-Can.md)
 * 2 [電容](Capacitor.md)
-* 2 [鈀錠](Palladium-Ingot.md)
+* 2 [鈀錠](palladium-ingot.md)
 * 2 [防突波電線](Surge-Proof-Wire.md)

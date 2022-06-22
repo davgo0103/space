@@ -12,7 +12,7 @@
 
 * 1 [電線](Wire.md)
 * 4 [鋁合金錠](aluminium-alloy-ingot.md)
-* 4 [鈦錠](Titanium-Ingot.md)
+* 4 [鈦錠](titanium-ingot.md)
 
 ## 用法
 

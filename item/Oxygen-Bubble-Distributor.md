@@ -12,7 +12,7 @@
 
 ![](<../.gitbook/assets/image (222) (1) (1) (1) (1) (1).png>)
 
-* 2 [鈀錠](Palladium-Ingot.md)
+* 2 [鈀錠](palladium-ingot.md)
 * 4 [鋁合金錠](aluminium-alloy-ingot.md)
 * 1 [導管](Conduit.md)
 * 1 樹葉

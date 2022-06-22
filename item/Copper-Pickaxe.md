@@ -13,7 +13,7 @@
 ![](<../.gitbook/assets/image (188).png>)
 
 * 2 [鋁棒](Aluminium-Rod.md)
-* 3 [鈦錠](Titanium-Ingot.md)
+* 3 [鈦錠](titanium-ingot.md)
 
 ## 用法
 

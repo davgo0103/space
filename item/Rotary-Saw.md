@@ -17,8 +17,8 @@
 * 1 [電線](Wire.md)
 * 1 [電池](battery.md)
 * 3 [鋁合金錠](aluminium-alloy-ingot.md)
-* 1 [鈦錠](Titanium-Ingot.md)
-* 1 [鈀錠](Palladium-Ingot.md)
+* 1 [鈦錠](titanium-ingot.md)
+* 1 [鈀錠](palladium-ingot.md)
 
 ## 用法
 
@@ -29,4 +29,4 @@
 
 ### 特殊效果
 
-圓鋸能夠破壞[鉛塊](../item-1/qian-kuai.md)。
+圓鋸能夠破壞[鉛塊](Lead-Block.md)。

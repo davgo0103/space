@@ -15,7 +15,7 @@
 * 1 鐵錠
 * 1 [鋁棒](Aluminium-Rod.md)
 * 1 [導管](Conduit.md)
-* 2 [鈦錠](Titanium-Ingot.md)
+* 2 [鈦錠](titanium-ingot.md)
 * 2 [鋁合金錠](aluminium-alloy-ingot.md)
 
 ## 用法

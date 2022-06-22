@@ -13,8 +13,8 @@
 ![](<../.gitbook/assets/image (221) (1) (1).png>)
 
 * 2 [通電電線](Energized-Wire.md)
-* 2 [鈾粉塵](uranium-dust.md)
-* 2 [強化鈀錠](Reinforced-Palladium-Ingot.md)
+* 2 [鈾粉塵](Uranium-Dust.md)
+* 2 [強化鈀錠](reinforced-palladium-ingot.md)
 * 1 [塑料](Plastic.md)
 * 1 [電池](battery.md)
 * 1 [高級電路板](Advanced-Circuit-Board.md)

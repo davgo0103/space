@@ -25,4 +25,4 @@
 * 1 玻璃塊
 * 2 [鋁棒](Aluminium-Rod.md)
 * 2 [鋁合金錠](aluminium-alloy-ingot.md)
-* 2 [鈀錠](Palladium-Ingot.md)
+* 2 [鈀錠](palladium-ingot.md)

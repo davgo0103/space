@@ -10,4 +10,4 @@
 
 ![](<../.gitbook/assets/image (224).png>)
 
-* 1 [強化鈀錠](Reinforced-Palladium-Ingot.md)
+* 1 [強化鈀錠](reinforced-palladium-ingot.md)

@@ -13,5 +13,5 @@
 ![](<../.gitbook/assets/image (218) (1).png>)
 
 * 4[鋁合金錠](aluminium-alloy-ingot.md)
-* 4[鈀錠](Palladium-Ingot.md)
+* 4[鈀錠](palladium-ingot.md)
 * 1 作台

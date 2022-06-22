@@ -12,7 +12,7 @@
 
 碘丸可以用以下物品製作：
 
-![](<../.gitbook/assets/image (232).png>)
+![](<../.gitbook/assets/image (234).png>)
 
 * 1 金蘋果
 * 8[鉛粒](Lead-Nugget.md)

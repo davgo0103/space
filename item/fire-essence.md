@@ -15,5 +15,5 @@
 ![](<../.gitbook/assets/image (114).png>)
 
 * 1 [小型火焰精華](small-fire-essence.md)
-* 2 [鈀錠](Palladium-Ingot.md)
+* 2 [鈀錠](palladium-ingot.md)
 * 4 [鋁合金錠](aluminium-alloy-ingot.md)

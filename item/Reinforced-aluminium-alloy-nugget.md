@@ -8,6 +8,6 @@
 
 強化鋁合金粒可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (231).png>)
+![](<../.gitbook/assets/image (232).png>)
 
 * 1 [強化鋁合金錠](reinforced-aluminium-alloy-ingot.md)

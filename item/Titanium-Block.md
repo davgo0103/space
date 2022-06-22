@@ -12,4 +12,4 @@
 
 ![](<../.gitbook/assets/image (216).png>)
 
-* 9 [鈦錠](Titanium-Ingot.md)
+* 9 [鈦錠](titanium-ingot.md)

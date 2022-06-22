@@ -12,7 +12,7 @@
 
 ![](<../.gitbook/assets/image (222) (1) (1).png>)
 
-* 3 [鈦錠](Titanium-Ingot.md)
+* 3 [鈦錠](titanium-ingot.md)
 * 1 [導管](Conduit.md)
 * 1 [電容](Capacitor.md)
 * 1 [電池](battery.md)

@@ -1,6 +1,6 @@
 # 💎 鈀塊
 
-![](<../.gitbook/assets/image (230).png>)
+![](<../.gitbook/assets/image (231).png>)
 
 鈀塊是可放置的礦物。
 
@@ -12,4 +12,4 @@
 
 ![](<../.gitbook/assets/image (216).png>)
 
-* 9 [鈀錠](Palladium-Ingot.md)
+* 9 [鈀錠](palladium-ingot.md)

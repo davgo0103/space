@@ -18,7 +18,7 @@
 
 ![](<../.gitbook/assets/image (29).png>)
 
-* 4 [鈀錠](Palladium-Ingot.md)
+* 4 [鈀錠](palladium-ingot.md)
 * 4 工作台
 * 1 鐵劍
 
