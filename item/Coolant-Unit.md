@@ -10,7 +10,7 @@
 
 冷卻液裝置可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (214) (1).png>)
+![](<../.gitbook/assets/image (214) (1) (1).png>)
 
 * 4 [鈀錠](palladium-ingot.md)
 * 2 [壓縮罐](Compressed-Tank.md)

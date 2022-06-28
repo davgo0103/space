@@ -10,7 +10,7 @@
 
 輻射保護器可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (214).png>)
+![](<../.gitbook/assets/image (214) (1).png>)
 
 * 3 鐵錠
 * 2 [鉛錠](../item-1/Lead-Ingot.md)

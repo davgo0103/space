@@ -98,6 +98,8 @@
   * [💎 鈀錠](item/palladium-ingot.md)
   * [💎 鈀粒](item/Palladium-Nugget.md)
   * [💎 鈀塊](item/Palladium-Block.md)
+  * [💎 鈀粉](item/Palladium-Dust.md)
+  * [💎 鈦粉](item/Titanium-Dust.md)
   * [💎 強化鈀錠](item/reinforced-palladium-ingot.md)
   * [💎 強化鈀粒](item/Reinforced-Palladium-Nugget.md)
   * [💎 強化鈀塊](item/Reinforced-Palladium-Block.md)

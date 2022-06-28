@@ -14,7 +14,7 @@ description: 一個可以隨身攜帶並且無需放置即可打開的工作台
 
 雖身形工作台可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (220) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (220) (1) (1) (1) (1) (1).png>)
 
 
 

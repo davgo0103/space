@@ -12,5 +12,5 @@
 
 ![](<../.gitbook/assets/image (219).png>)
 
-* 3[橡膠](Rubber.md)
+* 3 [橡膠](Rubber.md)
 * 1 皮革胸甲

@@ -1,6 +1,6 @@
 # ⚡ 粉碎機
 
-![](<../.gitbook/assets/image (220).png>)
+![](<../.gitbook/assets/image (220) (1).png>)
 
 粉碎機是一種[通電機器](../space/energy-systems.md)，可以將原礦粉碎成粉的狀態。
 

@@ -1,6 +1,6 @@
 # ⚡ 電爐
 
-![](<../.gitbook/assets/image (231).png>)
+![](<../.gitbook/assets/image (231) (1).png>)
 
 電爐是一種[通電機器](../space/energy-systems.md)，可以消耗能量高速冶煉物品。
 
