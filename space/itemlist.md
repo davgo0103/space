@@ -20,6 +20,8 @@
 * [電解冷凝器](../item/Electrolytic-Condenser.md)
 * [地熱發電機](../item/Geothermal-Generator.md)
 * [輻射保護器](../item/Electron-Belt-Generator.md)
+* [碎石機](../item/Block-Breaker.md)
+* [電爐](../item/Electric-Furnace.md)
 
 ### 機器和工作台
 
