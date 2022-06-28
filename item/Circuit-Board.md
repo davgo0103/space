@@ -10,7 +10,7 @@
 
 電路板可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (222) (1).png>)
+![](<../.gitbook/assets/image (222) (1) (1).png>)
 
 * 1 [電容](Capacitor.md)
 * 2 [導管](Conduit.md)

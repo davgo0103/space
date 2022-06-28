@@ -1,6 +1,6 @@
 # 🥗 碘丸
 
-![](<../.gitbook/assets/image (223).png>)
+![](<../.gitbook/assets/image (223) (1).png>)
 
 碘丸在食用 150 秒（2.5 分鐘）內能夠抵抗任何形式的核輻射。
 
@@ -12,7 +12,7 @@
 
 碘丸可以用以下物品製作：
 
-![](<../.gitbook/assets/image (243).png>)
+![](<../.gitbook/assets/image (243) (1).png>)
 
 * 1 金蘋果
 * 8[鉛粒](Lead-Nugget.md)

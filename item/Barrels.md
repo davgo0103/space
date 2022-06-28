@@ -27,7 +27,7 @@
 
 要製作鈦桶，您需要：
 
-![](<../.gitbook/assets/image (230).png>)
+![](<../.gitbook/assets/image (230) (1).png>)
 
 * 4 [鈦錠](titanium-ingot.md)
 * 1 鋁合金桶

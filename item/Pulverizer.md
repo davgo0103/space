@@ -10,7 +10,7 @@
 
 粉碎機可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (242).png>)
+![](<../.gitbook/assets/image (242) (1).png>)
 
 * 1 [電路板](Circuit-Board.md)
 * 1 [碎石機](Block-Breaker.md)

@@ -8,7 +8,7 @@
 
 電池可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (245).png>)
+![](<../.gitbook/assets/image (245) (1).png>)
 
 * 1 [導管](Conduit.md)
 * 4 [鋁合金錠](aluminium-alloy-ingot.md)

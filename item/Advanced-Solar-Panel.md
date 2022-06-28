@@ -12,7 +12,7 @@
 
 先進的太陽能板可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (221) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (221) (1) (1) (1) (1) (1).png>)
 
 * 1 [電容](Capacitor.md)
 * 1 [太陽能板](Solar-Panel.md)
