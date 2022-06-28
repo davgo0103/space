@@ -8,7 +8,7 @@
 
 鉛錠可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (220) (1).png>)
+![](<../.gitbook/assets/image (220) (1) (1).png>)
 
 * 1 [鋁合金錠](../item/aluminium-alloy-ingot.md)
 * 2 金錠
