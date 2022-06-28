@@ -22,6 +22,7 @@
 * [輻射保護器](../item/Electron-Belt-Generator.md)
 * [碎石機](../item/Block-Breaker.md)
 * [電爐](../item/Electric-Furnace.md)
+* [粉碎機](../item/Pulverizer.md)
 
 ### 機器和工作台
 
@@ -117,7 +118,11 @@
 * [鉛錠](../item-1/Lead-Ingot.md)
 * [鉛粒](../item-1/qian-kuai.md)
 * [鉛塊](../item-1/qian-kuai.md)
-* [鈾粉塵](../item/uranium-dust.md)
+* [鉛粉](../item/Lead-Dust.md)
+* [鈾粉](../item/uranium-dust.md)
+* [金粉](../item/Gold-Dust.md)
+* [鐵粉](../item/Iron-Dust.md)
+* [銅粉](../item/Copper-Dust.md)
 
 ### 太空服
 

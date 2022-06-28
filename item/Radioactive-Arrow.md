@@ -12,7 +12,7 @@
 
 * 1 木棒
 * 1 羽毛
-* 1 [鈾粉塵](uranium-dust.md)
+* 1 [鈾粉](uranium-dust.md)
 
 ### 用法
 

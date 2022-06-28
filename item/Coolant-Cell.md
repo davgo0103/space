@@ -2,7 +2,7 @@
 
 ![](<../.gitbook/assets/image (168).png>)
 
-冷卻劑是一種與[鈾粉塵](uranium-dust.md)一起使用時可為[核反應堆](Nuclear-Reactor.md)提供動力的物品。
+冷卻劑是一種與[鈾粉](uranium-dust.md)一起使用時可為[核反應堆](Nuclear-Reactor.md)提供動力的物品。
 
 一個冷卻劑可儲存 1200 單位的冷卻液。
 
@@ -10,7 +10,7 @@
 
 ### 製作
 
-冷卻液電池可以使用以下物品製作：
+冷卻劑可以使用以下物品製作：
 
 ![](<../.gitbook/assets/image (224).png>)
 

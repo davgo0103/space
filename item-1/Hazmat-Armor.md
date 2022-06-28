@@ -21,4 +21,4 @@
 
 ### 輻射防護
 
-穿了一整套 防護服，就不會因背包中的[鈾粉塵](../item/uranium-dust.md)、[放射性箭矢](../item/Radioactive-Arrow.md)或處於輻射汙染區域內而受到傷害。
+穿了一整套 防護服，就不會因背包中的[鈾粉](../item/uranium-dust.md)、[放射性箭矢](../item/Radioactive-Arrow.md)或處於輻射汙染區域內而受到傷害。

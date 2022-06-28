@@ -14,8 +14,8 @@
 
 ![](<../.gitbook/assets/image (244) (1).png>)
 
-* 4[鈦錠](titanium-ingot.md)
-* 2[鈾粉塵](uranium-dust.md)
-* 1[防突波電線](Surge-Proof-Wire.md)
-* 1[電路板](Circuit-Board.md)
-* 1鑽石胸甲
+* 4 [鈦錠](titanium-ingot.md)
+* 2 [鈾粉](uranium-dust.md)
+* 1 [防突波電線](Surge-Proof-Wire.md)
+* 1 [電路板](Circuit-Board.md)
+* 1 鑽石胸甲
