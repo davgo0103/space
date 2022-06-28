@@ -10,7 +10,7 @@
 
 鉛塊可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (233).png>)
+![](<../.gitbook/assets/image (233) (1).png>)
 
 * 9[鉛錠](Lead-Ingot.md)
 

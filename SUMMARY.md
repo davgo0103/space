@@ -30,6 +30,7 @@
   * [⚡ 電解冷凝器](item/Electrolytic-Condenser.md)
   * [⚡ 地熱發電機](item/Geothermal-Generator.md)
   * [⚡ 輻射保護器](item/Electron-Belt-Generator.md)
+  * [⚡ 碎石機](item/Block-Breaker.md)
   * [⚙ 模組化工作台](item/Modular-Workbench.md)
   * [⚙ 火箭](item/rocket.md)
   * [⚙ 太空服裝訂製](item/suit-fabricator.md)
