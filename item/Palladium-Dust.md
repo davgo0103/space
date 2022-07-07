@@ -1,6 +1,6 @@
 # 💎 鈀粉
 
-![](<../.gitbook/assets/image (214).png>)
+![](<../.gitbook/assets/image (214) (1).png>)
 
 鈀粉是一種粉末，可以熔煉成兩個[鈀錠](palladium-ingot.md)。
 

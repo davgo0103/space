@@ -10,7 +10,7 @@
 
 防護服套裝由[太空服裝訂製](../item/suit-fabricator.md)製作 :&#x20;
 
-![](<../.gitbook/assets/image (234) (1).png>)
+![](<../.gitbook/assets/image (234) (1) (1).png>)
 
 * 6 [塑料](../item/Plastic.md)
 * 4 [橡膠](../item/Rubber.md)
