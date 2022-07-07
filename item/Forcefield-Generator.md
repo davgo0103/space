@@ -1,30 +1,32 @@
 # ⚡ 防護盾生成器
 
-力場發生器是一種[通電機器](https://github.com/Z4OLLIEZ4/Space/wiki/Energy-Systems)，可用於生成半徑為 25 個方塊（可配置）的保護球。這是完全牢不可破的，但如果斷電會立即消失。
+![](<../.gitbook/assets/image (244).png>)
+
+防護盾生成器是一種[通電機器](../space/energy-systems.md)，可用於生成半徑為 25 個方塊的防護盾。這是完全牢不可破的，但如果斷電會立即消失。
 
 ## 獲得
 
 ### 製作
 
-可以使用以下物品製作力場發生器：
+防護盾生成器可以使用以下物品製作：
 
-* 2x[鉛塵](https://github.com/Z4OLLIEZ4/Space/wiki/Lead-Dust)
-* 2x[鈀金粉](https://github.com/Z4OLLIEZ4/Space/wiki/Palladium-Dust)
-* 2x[通電線](https://github.com/Z4OLLIEZ4/Space/wiki/Energized-Wire)
-* 1x[鈾塵](https://github.com/Z4OLLIEZ4/Space/wiki/Uranium-Dust)
-* 1x[鋁合金塊](https://github.com/Z4OLLIEZ4/Space/wiki/Aluminium-Alloy-Block)
-* 1x[高級電路板](https://github.com/Z4OLLIEZ4/Space/wiki/Advanced-Circuit-Board)
+![](<../.gitbook/assets/image (230).png>)
 
-![圖片不可用](https://camo.githubusercontent.com/2042eca513de2dc8202911fcbde6854c77c5bfe3b9a141caebc62a9650a2a92c/68747470733a2f2f692e696d6775722e636f6d2f566434667344572e706e67)
+* 2 [鉛粉](Lead-Dust.md)
+* 2 [鈀粉](Palladium-Dust.md)
+* 2 [通電電線](Energized-Wire.md)
+* 1 [鈾粉](uranium-dust.md)
+* 1 [鋁合金塊](Aluminium-Alloy-Block.md)
+* 1 [高級電路板](Advanced-Circuit-Board.md)
 
 ## 用法
 
-### 激活
+### 啟動
 
-可以通過接收來自導管的能量來激活力場[發生器](https://github.com/Z4OLLIEZ4/Space/wiki/Conduit)。
+可以通過接收來自[導管](Conduit.md)的能量來啟動防護盾生成器。
 
-力場發生器可以存儲多達 1000 個單位的能量。
+防護盾生成器可以儲存多達 1000 單位的能量。
 
-力場發生器的默認範圍為 25 個塊。
+防護盾生成器的範圍為 25 格。
 
-嘗試破壞力場將對玩家造成傷害並將玩家推開（可配置）
+嘗試破壞防護盾將對玩家造成傷害並將玩家推開。

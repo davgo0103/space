@@ -1,6 +1,6 @@
 # 💎 鉛粉
 
-![](<../.gitbook/assets/image (230).png>)
+![](<../.gitbook/assets/image (230) (1).png>)
 
 
 
