@@ -138,6 +138,7 @@
   * [放射性](enchant/Radioactive.md)
   * [絕緣](enchant/jue-yuan.md)
   * [推力](enchant/tui-li.md)
+  * [不朽](enchant/Undying.md)
 
 ## 已棄用 <a href="#item" id="item"></a>
 

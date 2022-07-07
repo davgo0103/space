@@ -24,7 +24,7 @@
 * [電爐](../item/Electric-Furnace.md)
 * [電弧爐](../item/Electric-Arc-Furnace.md)
 * [粉碎機](../item/Pulverizer.md)
-* 防護盾生成器
+* [防護盾生成器](../item/Forcefield-Generator.md)
 
 ### 機器和工作台
 
