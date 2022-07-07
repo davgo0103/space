@@ -22,6 +22,9 @@ description: 大多數機器都需要能量才能運行。能源系統，用於�
 * [人工重力製造機](../item/Artificial-Gravity-Generator.md)
 * [氧氣釋放器](../item/Oxygen-Bubble-Distributor.md)
 * [氧氣補充器](../item/Tank-Refiller.md)
+* [電爐](../item/Electric-Furnace.md)
+* [電弧爐](../item/Electric-Arc-Furnace.md)
+* 防護盾生成器
 
 ### 儲存能量的裝置
 

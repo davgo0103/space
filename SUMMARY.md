@@ -34,6 +34,7 @@
   * [⚡ 電爐](item/Electric-Furnace.md)
   * [⚡ 電弧爐](item/Electric-Arc-Furnace.md)
   * [⚡ 粉碎機](item/Pulverizer.md)
+  * [⚡ 防護盾生成器](item/Forcefield-Generator.md)
   * [⚙ 模組化工作台](item/Modular-Workbench.md)
   * [⚙ 火箭](item/rocket.md)
   * [⚙ 太空服裝訂製](item/suit-fabricator.md)
