@@ -2,7 +2,7 @@
 
 ![](<../.gitbook/assets/image (219) (1) (1) (1) (1).png>)
 
-核反應堆是一種[發電機器](../space/energy-systems.md)，可用於從[鈾粉](uranium-dust.md)和冷卻劑（由[管道](Conduit.md)提供）中產生能量。
+核反應堆是一種[發電機器](../space/energy-systems.md)，可用於從[鈾粉](uranium-dust.md)和冷卻劑（由[導管](Conduit.md)提供）中產生能量。
 
 ## 獲得
 

@@ -12,7 +12,7 @@
 
 ![](<../.gitbook/assets/image (213) (1) (1) (1) (1).png>)
 
-* 1 料斗
+* 1 漏斗
 * 2 [導管](Conduit.md)
 * 6 [鋁合金錠](aluminium-alloy-ingot.md)
 
