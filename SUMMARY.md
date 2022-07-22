@@ -36,7 +36,7 @@
   * [⚡ 粉碎機](item/Pulverizer.md)
   * [⚡ 防護盾生成器](item/Forcefield-Generator.md)
   * [⚙ 模組化工作台](item/Modular-Workbench.md)
-  * [⚙ 火箭](item/rocket.md)
+  * [⚙ 火箭](item/Rockets.md)
   * [⚙ 太空服裝訂製](item/suit-fabricator.md)
   * [⚙ 氣閘門](item/airlock-door.md)
   * [⚙ 霧化器](item/atomiser.md)

@@ -30,7 +30,7 @@ description: 歡迎加入 棘夜之都! 本WIKI將帶領各位了解伺服器的
 
 ### 基本生存
 
-* 太空中最關鍵的物品是[火箭](item/rocket.md)。這讓您可以輕鬆地飛往您想去的星球，但是，如果沒有做好相關的防護，它將無助於生存。
+* 太空中最關鍵的物品是[火箭](item/Rockets.md)。這讓您可以輕鬆地飛往您想去的星球，但是，如果沒有做好相關的防護，它將無助於生存。
 * 簡而言之，在太空中生存的方式有三種：[氧氣罩](item/Oxygen-Mask.md)和[氧氣罐](item/Oxygen-Tank.md)、在[太空服裝訂製](item/suit-fabricator.md)中製造的太空服或建造[機器](space/energy-systems.md#zu-cheng)（稍後介紹）。
 
 ### **氧氣罩和氧氣罐**
