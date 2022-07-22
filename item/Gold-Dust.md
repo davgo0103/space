@@ -10,6 +10,6 @@
 
 金粉可以使用[粉碎機](Pulverizer.md)製造：
 
-![](<../.gitbook/assets/image (236).png>)
+![](<../.gitbook/assets/image (236) (1).png>)
 
 * 1 金原礦

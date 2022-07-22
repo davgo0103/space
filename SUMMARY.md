@@ -49,6 +49,7 @@
   * [🎲 爆炸抗性核心](item/blast-resistance-core.md)
   * [🎲 抓鉤](item/grappling-hook.md)
   * [🎲 懸掛式滑翔機](item/Hang-Glider.md)
+  * [🎲 降落傘](item/Parachute.md)
   * [🎲 光子屏障](item/Photonic-Barrier.md)
   * [🎲 手持風扇](item/Handheld-Fan.md)
   * [🎲 醫療包](item/Medkit.md)
