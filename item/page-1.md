@@ -26,7 +26,7 @@
 
 右鍵打開 GUI ，您可以在其中創建、刪除、傳送到或重命名航點。手持傳送器最多可存儲 5 個航點。
 
-![](<../.gitbook/assets/image (225) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (225) (1) (1) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (224) (1) (1) (1).png>)
 

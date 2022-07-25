@@ -8,6 +8,6 @@
 
 鈦粒可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (226).png>)
+![](<../.gitbook/assets/image (226) (1).png>)
 
 * 1 [鈦錠](titanium-ingot.md)
