@@ -31,6 +31,7 @@
   * [⚡ 地熱發電機](item/Geothermal-Generator.md)
   * [⚡ 輻射保護器](item/Electron-Belt-Generator.md)
   * [⚡ 碎石機](item/Block-Breaker.md)
+  * [⚡ 方塊放置器](item/Block-Placer.md)
   * [⚡ 電爐](item/Electric-Furnace.md)
   * [⚡ 電弧爐](item/Electric-Arc-Furnace.md)
   * [⚡ 粉碎機](item/Pulverizer.md)

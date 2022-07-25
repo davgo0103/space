@@ -1,6 +1,6 @@
 # 💎 銅粉
 
-![](<../.gitbook/assets/image (222).png>)
+![](<../.gitbook/assets/image (222) (1).png>)
 
 銅粉是一種粉末，可以熔煉成兩個銅錠。
 

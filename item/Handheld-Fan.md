@@ -10,7 +10,7 @@
 
 手持風扇可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (222) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (222) (1) (1) (1) (1).png>)
 
 * 3 [鈦錠](titanium-ingot.md)
 * 1 [導管](Conduit.md)
