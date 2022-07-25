@@ -12,6 +12,7 @@ description: 大多數機器都需要能量才能運行。能源系統，用於�
 
 * [太陽能板](../item/Solar-Panel.md)
 * [先進的太陽能板](../item/Advanced-Solar-Panel.md)
+* [量子太陽能板](../item/Quantum-Solar-Panel.md)
 * [燃煤發電機](../item/Coal-Generator.md)
 * [核反應堆](../item/Nuclear-Reactor.md)
 * [地熱發電機](../item/Geothermal-Generator.md)
@@ -19,12 +20,23 @@ description: 大多數機器都需要能量才能運行。能源系統，用於�
 ### 輸入能量的機器
 
 * [氧氣收集器](../item/Oxygen-Collector.md)
+* [充電站](../item/Charging-Station.md)
+* [無線充電站](../item/Wireless-Charging-Station.md)
 * [人工重力製造機](../item/Artificial-Gravity-Generator.md)
 * [氧氣釋放器](../item/Oxygen-Bubble-Distributor.md)
 * [氧氣補充器](../item/Tank-Refiller.md)
+* [冷卻液裝置](../item/Coolant-Unit.md)
+* [電解冷凝器](../item/Electrolytic-Condenser.md)
+* [輻射保護器](../item/Electron-Belt-Generator.md)
+* [碎石機](../item/Block-Breaker.md)
+* [方塊放置器](../item/Block-Placer.md)
 * [電爐](../item/Electric-Furnace.md)
 * [電弧爐](../item/Electric-Arc-Furnace.md)
+* [粉粹機](../item/Pulverizer.md)
 * [防護盾生成器](../item/Forcefield-Generator.md)
+* [附魔機](../item/Enchanter.md)
+* [祛魔機](../item/Disenchanter.md)
+* [空調](../item/Air-Conditioner.md)
 
 ### 儲存能量的裝置
 
