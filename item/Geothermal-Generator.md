@@ -1,6 +1,6 @@
 # ⚡ 地熱發電機
 
-![](<../.gitbook/assets/image (213) (1) (1).png>)
+![](<../.gitbook/assets/image (213) (1) (1) (1).png>)
 
 地熱發電機是一種[通電機器](../space/energy-systems.md)，可用於從熔岩桶和岩漿塊中產生能量。
 

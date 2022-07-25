@@ -12,7 +12,7 @@
 
 核彈頭可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (213) (1).png>)
+![](<../.gitbook/assets/image (213) (1) (1).png>)
 
 * 4 [鉛錠](../item-1/Lead-Ingot.md)
 * 2 [通電電線](Energized-Wire.md)
