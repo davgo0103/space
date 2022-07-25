@@ -10,7 +10,7 @@
 
 方塊放置器可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (224).png>)
+![](<../.gitbook/assets/image (224) (1).png>)
 
 * 1 [導管](Conduit.md)
 * 1 發射器

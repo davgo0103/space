@@ -12,7 +12,7 @@
 
 冷卻劑可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (224) (1).png>)
+![](<../.gitbook/assets/image (224) (1) (1).png>)
 
 * 4 冰磚
 * 1 [壓縮罐](Compressed-Tank.md)

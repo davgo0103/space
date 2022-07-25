@@ -21,6 +21,7 @@
   * [⚡ 氧氣收集器](item/Oxygen-Collector.md)
   * [⚡ 太陽能板](item/Solar-Panel.md)
   * [⚡ 先進的太陽能板](item/Advanced-Solar-Panel.md)
+  * [⚡ 量子太陽能板](item/Quantum-Solar-Panel.md)
   * [⚡ 氧氣補充器](item/Tank-Refiller.md)
   * [⚡ 燃煤發電機](item/Coal-Generator.md)
   * [⚡ 電池及儲存槽](item/Clusters.md)
