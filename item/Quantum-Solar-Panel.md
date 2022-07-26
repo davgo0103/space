@@ -14,8 +14,8 @@
 
 ![](<../.gitbook/assets/image (224).png>)
 
-* 1[電容](Capacitor.md)
-* 1[先進的太陽能板](Advanced-Solar-Panel.md)
-* 2[防突波電線](Surge-Proof-Wire.md)
-* 2[塑料](Plastic.md)
-* 3[鈦錠](titanium-ingot.md)
+* 1 [電容](Capacitor.md)
+* 1 [先進的太陽能板](Advanced-Solar-Panel.md)
+* 2 [防突波電線](Surge-Proof-Wire.md)
+* 2 [塑料](Plastic.md)
+* 3 [鈦錠](titanium-ingot.md)
