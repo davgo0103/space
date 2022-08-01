@@ -71,6 +71,7 @@
   * [🛠 強化鈀鎬](item/Reinforced-Palladium-Pickaxe.md)
   * [🛠 放射性箭矢](item/Radioactive-Arrow.md)
   * [🛠 電鋸](item/Chainsaw.md)
+  * [🛠 高級電鋸](item/Advanced-Chainsaw.md)
   * [🛠 圓鋸](item/Rotary-Saw.md)
   * [🛠 鈦金手套](item/Titanium-Gauntlet.md)
   * [🛠 核彈頭](item/Nuclear-Warhead.md)
