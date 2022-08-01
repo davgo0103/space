@@ -14,6 +14,8 @@
 
 高級電鋸可以使用以下方法製作：
 
+![](../.gitbook/assets/image.png)
+
 * 1 [電鋸](Chainsaw.md)
 * 1 鑽石斧
 * 1 剪刀
@@ -21,5 +23,3 @@
 * 1 [導管](Conduit.md)
 * 1 [鋁棒](Aluminium-Rod.md)
 * 2 [金粉](Gold-Dust.md)
-
-![](../.gitbook/assets/image.png)
