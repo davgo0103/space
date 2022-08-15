@@ -40,6 +40,7 @@
   * [⚡ 附魔機](item/Enchanter.md)
   * [⚡ 祛魔機](item/Disenchanter.md)
   * [⚡ 空調](item/Air-Conditioner.md)
+  * [⚡ Copy of 空調](item/Air-Conditioner-1.md)
   * [⚡ 生物反應器](item/Bio-Reactor.md)
   * [⚙ 模組化工作台](item/Modular-Workbench.md)
   * [⚙ 火箭](item/Rockets.md)

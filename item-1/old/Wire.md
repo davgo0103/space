@@ -1,6 +1,6 @@
 # 電線
 
-![](<../../.gitbook/assets/image (4) (1).png>)
+![](<../../.gitbook/assets/image (4) (1) (1).png>)
 
 電線是[能源系統](../../space/energy-systems.md)和製造機器的一個組件。電線分為三種：
 
