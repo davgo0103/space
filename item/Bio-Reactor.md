@@ -10,7 +10,7 @@
 
 生物反應器可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (6) (1).png>)
 
 * 1 [防突波電線](Surge-Proof-Wire.md)
 * 1 堆肥箱

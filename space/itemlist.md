@@ -88,7 +88,7 @@
 * [管線](../item/Pipe.md)
 * [輪子](../item/Wheel.md)
 * [椅子](../item/Chair.md)
-* 天線
+* [天線](../item/Antenna.md)
 
 ### 氧氣
 

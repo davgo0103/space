@@ -10,12 +10,12 @@
 
 手持傳送器可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (221) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1).png>)
 
 * 2 [通電電線](Energized-Wire.md)
 * 2 [鈾粉](uranium-dust.md)
 * 2 [強化鈀錠](reinforced-palladium-ingot.md)
-* 1 [塑料](Plastic.md)
+* 1 [天線](Antenna.md)
 * 1 [電池](Battery.md)
 * 1 [高級電路板](Advanced-Circuit-Board.md)
 
