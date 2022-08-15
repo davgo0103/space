@@ -25,10 +25,6 @@
 * [電弧爐](../item/Electric-Arc-Furnace.md)
 * [粉碎機](../item/Pulverizer.md)
 * [防護盾生成器](../item/Forcefield-Generator.md)
-* [附魔機](../item/Enchanter.md)
-* [祛魔機](../item/Disenchanter.md)
-* [空調](../item/Air-Conditioner.md)
-* [充電板](../item/Charge-Pad.md)
 * [生物反應器](../item/Bio-Reactor.md)
 
 ### 機器和工作台

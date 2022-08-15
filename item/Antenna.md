@@ -1,6 +1,6 @@
 # 🗜 天線
 
-![](<../.gitbook/assets/image (7) (2).png>)
+![](<../.gitbook/assets/image (7).png>)
 
 天線是一種製作組件。
 
