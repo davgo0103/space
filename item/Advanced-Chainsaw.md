@@ -14,7 +14,7 @@
 
 高級電鋸可以使用以下方法製作：
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
 * 1 [電鋸](Chainsaw.md)
 * 1 鑽石斧
