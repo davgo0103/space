@@ -1,6 +1,6 @@
 # ⚡ 板手
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (11) (1).png>)
 
 扳手是一個簡單但有用的工具，具有三個用途：
 

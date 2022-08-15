@@ -1,6 +1,6 @@
 # ⚡ 生物反應器
 
-![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (10) (1).png>)
 
 生物反應器是一種[通電機器](../space/energy-systems.md)，可用於將有機物材料轉化為能量。
 

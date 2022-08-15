@@ -14,12 +14,12 @@
 
 漫遊者可以使用以下物品製作：
 
-* 1x天線
-* 1x壓縮罐
-* 1x鋁棒
-* 1x椅子
-* 1x電路板
-* 1x鈦錠
-* 2x輪子
+![](<../.gitbook/assets/image (10).png>)
 
-![圖片不可用](https://camo.githubusercontent.com/259538d6d3189a0500a1c02d4bc81b6ff610973f9294758e833c9dd36ac4ce30/68747470733a2f2f692e696d6775722e636f6d2f556a30716f72382e706e67)
+* 1[天線](Antenna.md)
+* 1[壓縮罐](Compressed-Tank.md)
+* 1[鋁棒](Aluminium-Rod.md)
+* 1[椅子](Chair.md)
+* 1[電路板](Circuit-Board.md)
+* 1[鈦錠](titanium-ingot.md)
+* 2[輪子](Wheel.md)

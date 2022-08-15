@@ -1,6 +1,6 @@
 # 🗜 天線
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (3).png>)
 
 天線是一種製作組件。
 
@@ -10,7 +10,7 @@
 
 天線可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (13).png>)
 
 * 1[塑料](Plastic.md)
 * 1[防突波電線](Surge-Proof-Wire.md)

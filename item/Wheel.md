@@ -1,6 +1,6 @@
 # 🗜 輪子
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (14).png>)
 
 輪子是一種製作組件。
 
@@ -10,7 +10,7 @@
 
 輪子可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (11).png>)
 
 * 1[鋁棒](Aluminium-Rod.md)
 * 4[橡膠](Rubber.md)

@@ -1,6 +1,6 @@
 # ⚡ 充電站
 
-![](<../.gitbook/assets/image (15).png>)
+![](<../.gitbook/assets/image (15) (1).png>)
 
 充電站是一種[通電機器](../space/energy-systems.md)，可用於為物品充電。
 
