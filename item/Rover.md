@@ -14,7 +14,7 @@
 
 漫遊者可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (4).png>)
 
 * 1[天線](Antenna.md)
 * 1[壓縮罐](Compressed-Tank.md)

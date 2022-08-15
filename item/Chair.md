@@ -1,6 +1,6 @@
 # 🗜 椅子
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (5).png>)
 
 椅子是一種製作組件。
 
@@ -10,7 +10,7 @@
 
 椅子可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (15).png>)
+![](<../.gitbook/assets/image (9).png>)
 
 * 1 黑色羊毛
 * 2[塑料](Plastic.md)
