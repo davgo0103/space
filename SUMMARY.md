@@ -43,6 +43,7 @@
   * [⚡ 生物反應器](item/Bio-Reactor.md)
   * [⚙ 模組化工作台](item/Modular-Workbench.md)
   * [⚙ 火箭](item/Rockets.md)
+  * [⚙ 漫遊者](item/Rover.md)
   * [⚙ 太空服裝訂製](item/suit-fabricator.md)
   * [⚙ 氣閘門](item/airlock-door.md)
   * [⚙ 霧化器](item/atomiser.md)
