@@ -1,6 +1,6 @@
-# ⚡ Copy of 空調
+# ⚡ 充電板
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (7).png>)
 
 充電板是一種[通電機器](../space/energy-systems.md)，站在上面時可為玩家背包中的通電物品充電。
 
@@ -12,7 +12,7 @@
 
 充電板可以使用以下物品製作：
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (30).png>)
 
 * 1 [電池](Battery.md)
 * 1 [電容](Capacitor.md)​
