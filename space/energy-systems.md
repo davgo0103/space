@@ -16,6 +16,7 @@ description: 大多數機器都需要能量才能運行。能源系統，用於�
 * [燃煤發電機](../item/Coal-Generator.md)
 * [核反應堆](../item/Nuclear-Reactor.md)
 * [地熱發電機](../item/Geothermal-Generator.md)
+* [生物反應器](../item/Bio-Reactor.md)
 
 ### 輸入能量的機器
 
@@ -37,6 +38,7 @@ description: 大多數機器都需要能量才能運行。能源系統，用於�
 * [附魔機](../item/Enchanter.md)
 * [祛魔機](../item/Disenchanter.md)
 * [空調](../item/Air-Conditioner.md)
+* [充電板](../item/Charge-Pad.md)
 
 ### 儲存能量的裝置
 

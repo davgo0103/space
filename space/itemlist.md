@@ -25,13 +25,15 @@
 * [電弧爐](../item/Electric-Arc-Furnace.md)
 * [粉碎機](../item/Pulverizer.md)
 * [防護盾生成器](../item/Forcefield-Generator.md)
+* [附魔機](../item/Enchanter.md)
+* [祛魔機](../item/Disenchanter.md)
+* [空調](../item/Air-Conditioner.md)
+* [充電板](../item/Charge-Pad.md)
 * [生物反應器](../item/Bio-Reactor.md)
 
 ### 機器和工作台
 
 * [模組化工作台](../item/Modular-Workbench.md)
-* [火箭](../item/Rockets.md)
-* [漫遊者](../item/Rover.md)
 * [太空服裝訂製](../item/suit-fabricator.md)
 * [氣閘門](../item/airlock-door.md)
 * [霧化器](../item/atomiser.md)
@@ -162,3 +164,8 @@
 * [電池](../item/Battery.md)
 * [旗子](../item/Flag.md)
 * [垃圾桶](../item/Trashcan.md)
+
+### 載具
+
+* [火箭](../item/Rockets.md)
+* [漫遊者](../item/Rover.md)

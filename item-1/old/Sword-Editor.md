@@ -24,7 +24,7 @@
 
 ### GUI介面
 
-![](<../../.gitbook/assets/image (30).png>)
+![](<../../.gitbook/assets/image (30) (1).png>)
 
 * **圖示 1：**增加鋒利。
 * **圖示 2：**增加耐久等級。
