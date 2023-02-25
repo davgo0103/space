@@ -10,7 +10,7 @@
 
 椅子可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
 * 1 黑色羊毛
 * 2[塑料](Plastic.md)
