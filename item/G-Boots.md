@@ -12,7 +12,7 @@ G-靴子 可以減輕低重力的影響。穿戴時，只需輕按Shift，靴子
 
 G-靴子 可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (212).png>)
+![](<../.gitbook/assets/image (212) (2).png>)
 
 * 1 [電池](Battery.md)
 * 1 鐵製靴子

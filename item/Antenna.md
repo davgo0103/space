@@ -10,7 +10,7 @@
 
 天線可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (9) (2).png>)
 
 * 1[塑料](Plastic.md)
 * 1[防突波電線](Surge-Proof-Wire.md)
