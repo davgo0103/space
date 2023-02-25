@@ -10,7 +10,7 @@
 
 祛魔機可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (246).png>)
+![](<../.gitbook/assets/image (231).png>)
 
 * 1 [電路板](Circuit-Board.md)
 * 1 砂輪

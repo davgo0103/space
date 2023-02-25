@@ -1,6 +1,6 @@
 # 🥗 便當盒
 
-![](<../.gitbook/assets/image (146).png>)
+![](<../.gitbook/assets/image (145).png>)
 
 便當盒是一種可用於補充飽食度的小工具。
 

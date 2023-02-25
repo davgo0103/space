@@ -11,6 +11,6 @@
 
 可以使用以下物品製作管線：
 
-![](<../.gitbook/assets/image (220) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (216) (1).png>)
 
 * 6 玻璃板

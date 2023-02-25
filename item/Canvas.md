@@ -10,7 +10,7 @@
 
 可以使用以下物品製作帆布：
 
-![](<../.gitbook/assets/image (116).png>)
+![](<../.gitbook/assets/image (115).png>)
 
 * 1 皮革
 * 4 線

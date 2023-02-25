@@ -1,6 +1,6 @@
 # 💎 鈀塊
 
-![](<../.gitbook/assets/image (238) (1).png>)
+![](<../.gitbook/assets/image (227).png>)
 
 鈀塊是可放置的礦物。
 

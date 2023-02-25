@@ -6,7 +6,7 @@ description: 歡迎加入 棘夜之都! 本WIKI將帶領各位了解伺服器的
 
 
 
-![](.gitbook/assets/u.png)
+![](<.gitbook/assets/u (1) (1).png>)
 
 ## 開始之前
 

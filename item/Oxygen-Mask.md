@@ -1,6 +1,6 @@
 # 💨 氧氣罩
 
-![](<../.gitbook/assets/image (120).png>)
+![](<../.gitbook/assets/image (119).png>)
 
 ![](<../.gitbook/assets/image (118).png>)
 

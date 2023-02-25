@@ -1,6 +1,6 @@
 # 🗜 防突波電線
 
-![](<../.gitbook/assets/image (95).png>)
+![](<../.gitbook/assets/image (98).png>)
 
 防突波電線是一種製作組件。
 

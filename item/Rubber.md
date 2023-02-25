@@ -8,7 +8,7 @@
 
 橡膠可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (161).png>)
+![](<../.gitbook/assets/image (162).png>)
 
 * 8 木炭
 * 1 海帶

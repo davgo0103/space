@@ -1,6 +1,6 @@
 # 小型火焰精華
 
-![](<../../.gitbook/assets/image (112).png>)
+![](<../../.gitbook/assets/image (113).png>)
 
 小型火焰精華是一種製作組件。它用於製作[火焰精華](fire-essence.md)。
 

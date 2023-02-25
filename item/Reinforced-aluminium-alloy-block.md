@@ -1,6 +1,6 @@
 # 💎 強化鋁合金塊
 
-![](<../.gitbook/assets/image (227).png>)
+![](<../.gitbook/assets/image (238) (1).png>)
 
 鋁合金塊是可放置的礦物。
 

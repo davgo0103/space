@@ -22,4 +22,4 @@
 
 點擊打開 GUI。用於管理該太空服的模組。
 
-![](<../.gitbook/assets/image (2) (1).png>)
+![](<../.gitbook/assets/image (3) (1).png>)

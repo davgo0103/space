@@ -8,7 +8,7 @@
 
 座標紀錄儀可以使用以下物品製作：
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 * 4 [塑料](Plastic.md)
 * 1 [天線](Antenna.md)

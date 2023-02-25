@@ -10,7 +10,7 @@
 
 太陽能頭盔可以使用以下物品製作：
 
-![](<../.gitbook/assets/image (165).png>)
+![](<../.gitbook/assets/image (164).png>)
 
 * 1 鐵製頭盔
 * 4 [鋁合金錠](aluminium-alloy-ingot.md)

@@ -1,6 +1,6 @@
 # 💨 CO2 洗滌器
 
-![](<../.gitbook/assets/image (131).png>)
+![](<../.gitbook/assets/image (130).png>)
 
 CO2 洗滌器是一種可用於延長[氧氣罐](Oxygen-Tank.md)使用壽命的小工具。
 

@@ -1,6 +1,6 @@
 # 🛠 鈦鎬
 
-![](<../.gitbook/assets/image (187).png>)
+![](<../.gitbook/assets/image (186).png>)
 
 鈦鎬是一種特殊的鎬。它具有金鎬的基本屬性，並且可以挖掘與金鎬相同的方塊。
 

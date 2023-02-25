@@ -1,6 +1,6 @@
 # 💎 金粉
 
-![](<../.gitbook/assets/image (234) (1).png>)
+![](<../.gitbook/assets/image (223).png>)
 
 金粉是一種粉末，可以熔煉成兩個金錠。
 

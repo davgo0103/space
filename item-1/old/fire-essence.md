@@ -1,6 +1,6 @@
 # 火焰精華
 
-![](<../../.gitbook/assets/image (113).png>)
+![](<../../.gitbook/assets/image (112).png>)
 
 
 
