@@ -2,7 +2,7 @@
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-傳送器是一種[通電機器](../space/energy-systems.md)，可以讀取由[座標紀錄儀](teleporter-drive.md)保存的位置，並可以進行傳送。
+傳送器是一種[通電機器](../space/energy-systems.md)，可以讀取由[座標紀錄儀](Teleporter-Drive.md)保存的位置，並可以進行傳送。
 
 每次傳送需要400單位的能量。
 
