@@ -64,7 +64,7 @@
   * [🎲 手持傳送器](item/page-1.md)
   * [🎲 隨身型工作台](item/Portable-Workbench.md)
   * [🎲 隨身型終界箱](item/Portable-Ender-Chest.md)
-  * [🎲 攜帶式發電機](item/portable-ender-chest-1.md)
+  * [🎲 攜帶式發電機](item/portable-generator.md)
   * [🎲 座標紀錄儀](item/teleporter-drive.md)
   * [🛠 亞德曼合金劍](item/Adamantium-Sword.md)
   * [🛠 武士刀](item/Katana.md)

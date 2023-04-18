@@ -1,6 +1,6 @@
 # 🎲 攜帶式發電機
 
-<figure><img src="../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ## 獲得
 
@@ -8,7 +8,7 @@
 
 攜帶式發電機可以使用以下物品製作：
 
-<figure><img src="../.gitbook/assets/image (251).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 * 1 [電容](Capacitor.md)
 * 1 [電路板](Circuit-Board.md)
@@ -26,4 +26,4 @@
 * 右邊放入[燃料桶](fuel-bucket.md)供應燃料。
 * 左邊放入可以充電的物品。
 
-<figure><img src="../.gitbook/assets/image (248).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>

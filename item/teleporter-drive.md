@@ -1,6 +1,6 @@
 # 🎲 座標紀錄儀
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## 獲得
 
@@ -8,7 +8,7 @@
 
 座標紀錄儀可以使用以下物品製作：
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
 
 * 4 [塑料](Plastic.md)
 * 1 [天線](Antenna.md)

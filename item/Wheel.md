@@ -1,6 +1,6 @@
 # 🗜 輪子
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (6) (2).png>)
 
 輪子是一種製作組件。
 

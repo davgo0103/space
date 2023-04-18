@@ -1,6 +1,6 @@
 # ⚡ 傳送器
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (2).png" alt=""><figcaption></figcaption></figure>
 
 傳送器是一種[通電機器](../space/energy-systems.md)，可以讀取由[座標紀錄儀](teleporter-drive.md)保存的位置，並可以進行傳送。
 
@@ -12,7 +12,7 @@
 
 傳送器可以使用以下物品製作：
 
-<figure><img src="../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 1 [高級電路板](Advanced-Circuit-Board.md)
 * 1 [鈦錠](titanium-ingot.md)
