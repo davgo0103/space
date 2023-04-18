@@ -12,7 +12,7 @@
 
 傳送器可以使用以下物品製作：
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 * 1 [高級電路板](Advanced-Circuit-Board.md)
 * 1 [鈦錠](titanium-ingot.md)

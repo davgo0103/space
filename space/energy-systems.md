@@ -39,6 +39,8 @@ description: 大多數機器都需要能量才能運行。能源系統，用於�
 * [祛魔機](../item/Disenchanter.md)
 * [空調](../item/Air-Conditioner.md)
 * [充電板](../item/Charge-Pad.md)
+* [傳送器](../item/teleporter.md)
+* [精煉廠](../item/refinery.md)
 
 ### 儲存能量的裝置
 

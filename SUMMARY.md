@@ -130,6 +130,7 @@
   * [💎 鐵粉](item/Iron-Dust.md)
   * [💎 金粉](item/Gold-Dust.md)
   * [💎 銅粉](item/Copper-Dust.md)
+  * [💎 油桶](item/fuel-bucket.md)
   * [👘 航海家套裝](item-1/Voyager-Armor.md)
   * [👘 盜賊套裝](item-1/Rogue-Armor.md)
   * [👘 太陽能頭盔](item/solar-helmet.md)

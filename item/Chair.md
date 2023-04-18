@@ -1,6 +1,6 @@
 # 🗜 椅子
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (2).png>)
 
 椅子是一種製作組件。
 
