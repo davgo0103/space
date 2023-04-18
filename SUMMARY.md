@@ -43,6 +43,7 @@
   * [⚡ 充電板](item/Charge-Pad.md)
   * [⚡ 生物反應器](item/Bio-Reactor.md)
   * [⚡ 傳送器](item/teleporter.md)
+  * [⚡ 精煉廠](item/refinery.md)
   * [⚙ 模組化工作台](item/Modular-Workbench.md)
   * [⚙ 太空服裝訂製](item/suit-fabricator.md)
   * [⚙ 氣閘門](item/airlock-door.md)
